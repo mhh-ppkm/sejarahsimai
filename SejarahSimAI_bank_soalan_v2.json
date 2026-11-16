@@ -1,0 +1,3658 @@
+{
+  "version": "2.0",
+  "chapters": [
+    {
+      "id": 1,
+      "form": 4,
+      "number": 1,
+      "title": "Warisan Negara Bangsa",
+      "icon": "🏰",
+      "subtitle": "Asas pembentukan negara sebelum kedatangan Barat",
+      "facts": [
+        "Kerajaan Alam Melayu mempunyai asas negara bangsa sebelum kedatangan kuasa Barat.",
+        "Kesultanan Melayu Melaka memiliki raja, rakyat, wilayah pengaruh, undang-undang, kedaulatan dan lambang kebesaran.",
+        "Sistem Pembesar Empat Lipatan membantu sultan mentadbir kerajaan.",
+        "Hukum Kanun Melaka dan Undang-Undang Laut Melaka menjadi panduan pentadbiran."
+      ],
+      "events": [
+        {
+          "year": "Abad ke-15",
+          "title": "Kesultanan Melayu Melaka",
+          "detail": "Melaka muncul sebagai pusat perdagangan dan pemerintahan yang penting."
+        },
+        {
+          "year": "Zaman Kesultanan",
+          "title": "Pembesar Empat Lipatan",
+          "detail": "Bendahara, Penghulu Bendahari, Temenggung dan Laksamana melaksanakan fungsi utama."
+        },
+        {
+          "year": "Zaman Kesultanan",
+          "title": "Undang-undang bertulis",
+          "detail": "Peraturan bertulis membantu menjaga ketenteraman dan perdagangan."
+        }
+      ],
+      "chain": [
+        "Kuasa pemerintahan dan pentadbiran yang teratur",
+        "Kestabilan negeri serta keyakinan pedagang",
+        "Kepentingan undang-undang dan kesetiaan rakyat"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 2,
+      "form": 4,
+      "number": 2,
+      "title": "Kebangkitan Nasionalisme",
+      "icon": "🗞️",
+      "subtitle": "Kesedaran kebangsaan dan perjuangan rakyat",
+      "facts": [
+        "Nasionalisme merujuk perasaan cinta akan bangsa dan negara serta usaha mempertahankan kedaulatan.",
+        "Revolusi Keagungan di England, Revolusi Amerika dan Revolusi Perancis membawa gagasan politik baharu.",
+        "Perkembangan pendidikan, media cetak dan golongan intelektual menggerakkan kesedaran nasionalisme.",
+        "Tokoh dan pertubuhan tempatan menyuarakan kepentingan hak masyarakat serta kemajuan bangsa."
+      ],
+      "events": [
+        {
+          "year": "1688",
+          "title": "Revolusi Keagungan",
+          "detail": "Mengukuhkan prinsip keluhuran parlimen di England."
+        },
+        {
+          "year": "1776",
+          "title": "Kemerdekaan Amerika",
+          "detail": "Pengisytiharan kemerdekaan daripada British."
+        },
+        {
+          "year": "1789",
+          "title": "Revolusi Perancis",
+          "detail": "Idea kebebasan, persamaan dan persaudaraan berkembang."
+        },
+        {
+          "year": "Awal abad ke-20",
+          "title": "Media dan persatuan",
+          "detail": "Pendidikan dan akhbar menyebarkan kesedaran kebangsaan."
+        }
+      ],
+      "chain": [
+        "Pendidikan dan media menyebarkan idea",
+        "Kesedaran hak dan identiti meningkat",
+        "Gerakan nasionalisme dan persatuan muncul"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 3,
+      "form": 4,
+      "number": 3,
+      "title": "Konflik Dunia dan Pendudukan Jepun di Negara Kita",
+      "icon": "⚔️",
+      "subtitle": "Kesan perang terhadap Tanah Melayu",
+      "facts": [
+        "Perang Dunia Pertama meletus pada 1914 dan Perang Dunia Kedua bermula pada 1939.",
+        "Jepun menyerang Tanah Melayu pada Disember 1941; pentadbiran Jepun berlangsung hingga 1945.",
+        "Jepun mencari bahan mentah dan kedudukan strategik di Asia Tenggara.",
+        "Pendudukan menimbulkan kesukaran ekonomi dan kebangkitan gerakan penentangan."
+      ],
+      "events": [
+        {
+          "year": "1914",
+          "title": "Perang Dunia Pertama",
+          "detail": "Pertembungan kuasa besar di Eropah."
+        },
+        {
+          "year": "1939",
+          "title": "Perang Dunia Kedua",
+          "detail": "Peperangan besar tercetus di Eropah."
+        },
+        {
+          "year": "1941",
+          "title": "Serangan Jepun",
+          "detail": "Tentera Jepun mendarat di Tanah Melayu pada Disember."
+        },
+        {
+          "year": "1945",
+          "title": "Jepun menyerah kalah",
+          "detail": "Pendudukan Jepun tamat selepas kekalahan dalam perang."
+        }
+      ],
+      "chain": [
+        "Persaingan kuasa dan sumber mencetuskan konflik",
+        "Pendudukan tentera menjejaskan kehidupan rakyat",
+        "Kesedaran mempertahankan negara meningkat"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 4,
+      "form": 4,
+      "number": 4,
+      "title": "Era Peralihan Kuasa British di Negara Kita",
+      "icon": "📜",
+      "subtitle": "BMA, Malayan Union dan penentangan",
+      "facts": [
+        "British Military Administration (BMA) ditubuhkan selepas penyerahan kalah Jepun pada 1945.",
+        "Malayan Union diperkenalkan pada 1946.",
+        "Penentangan orang Melayu berkait dengan kuasa Raja-raja Melayu dan syarat kewarganegaraan.",
+        "Gerakan penentangan mengukuhkan kerjasama serta kesedaran politik."
+      ],
+      "events": [
+        {
+          "year": "1945",
+          "title": "BMA",
+          "detail": "Pentadbiran Tentera British mengambil alih selepas perang."
+        },
+        {
+          "year": "1946",
+          "title": "Malayan Union",
+          "detail": "Malayan Union berkuat kuasa pada 1 April 1946."
+        },
+        {
+          "year": "1946",
+          "title": "Penentangan",
+          "detail": "Bantahan melalui kongres, akhbar, perhimpunan dan persatuan."
+        },
+        {
+          "year": "1948",
+          "title": "Persekutuan Tanah Melayu",
+          "detail": "Malayan Union digantikan dengan persekutuan baharu."
+        }
+      ],
+      "chain": [
+        "Dasar pentadbiran baharu menimbulkan bantahan",
+        "Bantahan melalui saluran organisasi dan masyarakat",
+        "British menggantikan Malayan Union pada 1948"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 5,
+      "form": 4,
+      "number": 5,
+      "title": "Persekutuan Tanah Melayu 1948",
+      "icon": "🤝",
+      "subtitle": "Mencari bentuk pentadbiran yang diterima",
+      "facts": [
+        "Persekutuan Tanah Melayu 1948 menggantikan Malayan Union pada 1 Februari 1948.",
+        "Perjanjian 1948 mengembalikan kedudukan Raja-raja Melayu dalam sistem pentadbiran.",
+        "Syarat kewarganegaraan diperkemas berbanding Malayan Union.",
+        "Persekutuan menjadi asas perkembangan perlembagaan dan kemerdekaan."
+      ],
+      "events": [
+        {
+          "year": "1946",
+          "title": "Penentangan Malayan Union",
+          "detail": "Bantahan berterusan terhadap gagasan pentadbiran baharu."
+        },
+        {
+          "year": "1948",
+          "title": "Perjanjian Persekutuan",
+          "detail": "Persekutuan Tanah Melayu ditubuhkan pada 1 Februari."
+        },
+        {
+          "year": "1957",
+          "title": "Kemerdekaan",
+          "detail": "Persekutuan berkembang menjadi negara merdeka."
+        }
+      ],
+      "chain": [
+        "Perundingan menangani bantahan masyarakat",
+        "Struktur persekutuan dan raja diperkukuh",
+        "Menyediakan asas ke arah kemerdekaan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 6,
+      "form": 4,
+      "number": 6,
+      "title": "Ancaman Komunis dan Pengisytiharan Darurat",
+      "icon": "🚨",
+      "subtitle": "Keselamatan dan cabaran mempertahankan negara",
+      "facts": [
+        "Darurat diisytiharkan pada 1948 akibat ancaman dan keganasan komunis.",
+        "Rancangan Briggs bertujuan memutuskan hubungan gerila komunis dengan sumber sokongan.",
+        "Usaha keselamatan disertai langkah memenangi hati dan fikiran rakyat.",
+        "Darurat di Tanah Melayu berakhir pada tahun 1960."
+      ],
+      "events": [
+        {
+          "year": "1948",
+          "title": "Darurat",
+          "detail": "Tindakan keselamatan dilaksanakan bagi menangani ancaman komunis."
+        },
+        {
+          "year": "1950",
+          "title": "Rancangan Briggs",
+          "detail": "Penyusunan semula kampung baharu dan kawalan bekalan."
+        },
+        {
+          "year": "1955",
+          "title": "Rundingan Baling",
+          "detail": "Rundingan antara kerajaan dengan wakil PKM tidak mencapai penyelesaian."
+        },
+        {
+          "year": "1960",
+          "title": "Tamat Darurat",
+          "detail": "Darurat Persekutuan Tanah Melayu ditamatkan."
+        }
+      ],
+      "chain": [
+        "Ancaman keganasan menggugat keselamatan",
+        "Operasi keselamatan dan pentadbiran dilaksanakan",
+        "Keamanan dipulihkan secara berperingkat"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 7,
+      "form": 4,
+      "number": 7,
+      "title": "Usaha ke Arah Kemerdekaan",
+      "icon": "🕊️",
+      "subtitle": "Kerjasama politik membina persefahaman",
+      "facts": [
+        "Jawatankuasa Hubungan Antara Kaum (CLC) membantu membina persefahaman.",
+        "Sistem Ahli memperkenalkan latihan pentadbiran kepada pemimpin tempatan.",
+        "Kerjasama politik antara kaum memperkukuh tuntutan berkerajaan sendiri.",
+        "Rundingan kemerdekaan menjadi langkah penting menuju 1957."
+      ],
+      "events": [
+        {
+          "year": "1949",
+          "title": "CLC",
+          "detail": "Jawatankuasa Hubungan Antara Kaum menggalakkan kerjasama."
+        },
+        {
+          "year": "1951",
+          "title": "Sistem Ahli",
+          "detail": "Membuka ruang latihan mentadbir kepada pemimpin tempatan."
+        },
+        {
+          "year": "1956",
+          "title": "Rundingan London",
+          "detail": "Rombongan mencapai persetujuan tentang kemerdekaan."
+        },
+        {
+          "year": "1957",
+          "title": "Kemerdekaan",
+          "detail": "Persekutuan Tanah Melayu mencapai kemerdekaan."
+        }
+      ],
+      "chain": [
+        "Perbezaan pandangan memerlukan rundingan",
+        "Kerjasama antara kaum diperluas",
+        "Persetujuan politik memudahkan kemerdekaan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 8,
+      "form": 4,
+      "number": 8,
+      "title": "Pilihan Raya",
+      "icon": "🗳️",
+      "subtitle": "Asas demokrasi perwakilan",
+      "facts": [
+        "Pilihan raya memberi rakyat peluang memilih wakil.",
+        "Pilihan Raya Majlis Perundangan Persekutuan berlangsung pada 1955.",
+        "Parti Perikatan memenangi 51 daripada 52 kerusi yang dipertandingkan pada 1955.",
+        "Pilihan raya memperkukuh asas pemerintahan sendiri."
+      ],
+      "events": [
+        {
+          "year": "1951",
+          "title": "Pilihan raya tempatan",
+          "detail": "Pilihan raya Majlis Perbandaran George Town diadakan."
+        },
+        {
+          "year": "1952",
+          "title": "Pilihan raya Kuala Lumpur",
+          "detail": "Pakatan UMNO-MCA menampakkan perkembangan kerjasama."
+        },
+        {
+          "year": "1955",
+          "title": "Pilihan raya persekutuan",
+          "detail": "Rakyat memilih wakil ke Majlis Perundangan Persekutuan."
+        },
+        {
+          "year": "1957",
+          "title": "Kemerdekaan",
+          "detail": "Amalan perwakilan terus berkembang selepas merdeka."
+        }
+      ],
+      "chain": [
+        "Rakyat memilih wakil melalui undi",
+        "Wakil membentuk pentadbiran dan menyuarakan kepentingan",
+        "Demokrasi berparlimen diperkukuh"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 9,
+      "form": 4,
+      "number": 9,
+      "title": "Perlembagaan Persekutuan Tanah Melayu 1957",
+      "icon": "⚖️",
+      "subtitle": "Asas undang-undang negara merdeka",
+      "facts": [
+        "Suruhanjaya Reid dibentuk pada 1956 untuk merangka perlembagaan Persekutuan Tanah Melayu yang merdeka.",
+        "Draf perlembagaan mengambil kira pandangan pelbagai pihak.",
+        "Perlembagaan menetapkan kerangka kerajaan, kewarganegaraan dan hak.",
+        "Perlembagaan Persekutuan Tanah Melayu berkuat kuasa semasa kemerdekaan pada 31 Ogos 1957."
+      ],
+      "events": [
+        {
+          "year": "1956",
+          "title": "Suruhanjaya Reid",
+          "detail": "Suruhanjaya bebas ditubuhkan untuk merangka perlembagaan."
+        },
+        {
+          "year": "1957",
+          "title": "Cadangan perlembagaan",
+          "detail": "Draf dan pindaan diperhalusi melalui rundingan."
+        },
+        {
+          "year": "31 Ogos 1957",
+          "title": "Perlembagaan berkuat kuasa",
+          "detail": "Landasan undang-undang bagi negara merdeka."
+        }
+      ],
+      "chain": [
+        "Persetujuan antara pihak berkepentingan",
+        "Perlembagaan sebagai undang-undang tertinggi",
+        "Hak dan struktur pemerintahan mempunyai asas"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 10,
+      "form": 4,
+      "number": 10,
+      "title": "Pemasyhuran Kemerdekaan",
+      "icon": "🇲🇾",
+      "subtitle": "Detik lahir negara merdeka",
+      "facts": [
+        "Kemerdekaan Persekutuan Tanah Melayu dimasyhurkan pada 31 Ogos 1957.",
+        "Upacara pemasyhuran berlangsung di Stadium Merdeka, Kuala Lumpur.",
+        "Tunku Abdul Rahman Putra Al-Haj merupakan tokoh utama pengisytiharan kemerdekaan.",
+        "Kemerdekaan menandakan berakhirnya pemerintahan kolonial British bagi Persekutuan Tanah Melayu."
+      ],
+      "events": [
+        {
+          "year": "20 Februari 1956",
+          "title": "Pengumuman tarikh",
+          "detail": "Tunku Abdul Rahman mengumumkan tarikh kemerdekaan di Melaka."
+        },
+        {
+          "year": "30 Ogos 1957",
+          "title": "Malam ambang merdeka",
+          "detail": "Upacara di Padang Kelab Selangor menjelang tengah malam."
+        },
+        {
+          "year": "31 Ogos 1957",
+          "title": "Pemasyhuran",
+          "detail": "Pemasyhuran kemerdekaan di Stadium Merdeka."
+        },
+        {
+          "year": "16 September 1963",
+          "title": "Pembentukan Malaysia",
+          "detail": "Persekutuan Malaysia dibentuk kemudian."
+        }
+      ],
+      "chain": [
+        "Rundingan dan perpaduan membawa kemerdekaan",
+        "Kedaulatan negara dipulihkan",
+        "Tanggungjawab rakyat mempertahankan kemerdekaan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 11,
+      "form": 5,
+      "number": 1,
+      "title": "Kedaulatan Negara",
+      "icon": "🛡️",
+      "subtitle": "Makna kuasa tertinggi dan kedaulatan",
+      "facts": [
+        "Kedaulatan ialah kuasa tertinggi sesebuah negara yang bebas dan merdeka.",
+        "Ciri negara berdaulat termasuk pemerintahan, sempadan, perundangan dan rakyat.",
+        "Kedaulatan tradisional, moden, undang-undang dan antarabangsa mempunyai tafsiran tersendiri.",
+        "Perpaduan, kestabilan dan pertahanan membantu memelihara kedaulatan."
+      ],
+      "events": [
+        {
+          "year": "Sebelum abad ke-20",
+          "title": "Kedaulatan tradisional",
+          "detail": "Berkait dengan pemerintahan beraja dan kesetiaan rakyat."
+        },
+        {
+          "year": "1957",
+          "title": "Kemerdekaan",
+          "detail": "Persekutuan Tanah Melayu memiliki kuasa mentadbir sendiri."
+        },
+        {
+          "year": "Kini",
+          "title": "Kedaulatan moden",
+          "detail": "Kedaulatan diperkukuh melalui perlembagaan dan pengiktirafan."
+        }
+      ],
+      "chain": [
+        "Negara berdaulat berkuasa menggubal dasar",
+        "Undang-undang dan sempadan melindungi negara",
+        "Rakyat perlu bersatu mempertahankan kedaulatan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 12,
+      "form": 5,
+      "number": 2,
+      "title": "Perlembagaan Persekutuan",
+      "icon": "📘",
+      "subtitle": "Undang-undang tertinggi Malaysia",
+      "facts": [
+        "Perlembagaan Persekutuan menjadi undang-undang tertinggi negara.",
+        "Perlembagaan merangkumi peruntukan tentang kerajaan, institusi raja dan kewarganegaraan.",
+        "Pindaan perlembagaan mesti mengikuti kaedah yang ditetapkan.",
+        "Perlembagaan berperanan memelihara kestabilan sistem pemerintahan."
+      ],
+      "events": [
+        {
+          "year": "1948",
+          "title": "Perjanjian Persekutuan",
+          "detail": "Asas pembentukan persekutuan dan pentadbiran."
+        },
+        {
+          "year": "1957",
+          "title": "Perlembagaan kemerdekaan",
+          "detail": "Kerangka negara merdeka dimuktamadkan."
+        },
+        {
+          "year": "1963",
+          "title": "Pembentukan Malaysia",
+          "detail": "Peruntukan berkaitan Malaysia dimasukkan mengikut proses undang-undang."
+        }
+      ],
+      "chain": [
+        "Perlembagaan menetapkan kuasa dan tanggungjawab",
+        "Institusi berfungsi menurut undang-undang",
+        "Kestabilan dan kebajikan rakyat dilindungi"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 13,
+      "form": 5,
+      "number": 3,
+      "title": "Raja Berperlembagaan dan Demokrasi Berparlimen",
+      "icon": "👑",
+      "subtitle": "Dua tonggak pemerintahan negara",
+      "facts": [
+        "Yang di-Pertuan Agong ialah Ketua Utama Negara dalam sistem Raja Berperlembagaan.",
+        "Parlimen Persekutuan terdiri daripada Yang di-Pertuan Agong, Dewan Negara dan Dewan Rakyat.",
+        "Pilihan raya memberi mandat kepada wakil rakyat.",
+        "Kuasa perundangan, eksekutif dan kehakiman mempunyai fungsi tersendiri."
+      ],
+      "events": [
+        {
+          "year": "1957",
+          "title": "Sistem pascamerdeka",
+          "detail": "Raja Berperlembagaan diamalkan dalam negara merdeka."
+        },
+        {
+          "year": "Setiap penggal",
+          "title": "Pilihan raya",
+          "detail": "Rakyat memilih wakil untuk Dewan Rakyat."
+        },
+        {
+          "year": "Sepanjang masa",
+          "title": "Parlimen bersidang",
+          "detail": "Proses penggubalan undang-undang dan semak imbang."
+        }
+      ],
+      "chain": [
+        "Rakyat memilih wakil",
+        "Institusi negara berfungsi mengikut perlembagaan",
+        "Kuasa dapat dipertanggungjawabkan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 14,
+      "form": 5,
+      "number": 4,
+      "title": "Sistem Persekutuan",
+      "icon": "🏛️",
+      "subtitle": "Pembahagian kuasa pusat dan negeri",
+      "facts": [
+        "Sistem persekutuan membahagikan bidang kuasa antara Kerajaan Persekutuan dan Kerajaan Negeri.",
+        "Senarai Persekutuan, Senarai Negeri dan Senarai Bersama menjadi panduan bidang kuasa.",
+        "Pertahanan termasuk dalam Senarai Persekutuan.",
+        "Tanah pada asasnya termasuk dalam Senarai Negeri, tertakluk kepada peruntukan perlembagaan."
+      ],
+      "events": [
+        {
+          "year": "1948",
+          "title": "Persekutuan Tanah Melayu",
+          "detail": "Pembentukan persekutuan awal."
+        },
+        {
+          "year": "1957",
+          "title": "Perlembagaan Persekutuan",
+          "detail": "Kerangka bidang kuasa selepas merdeka."
+        },
+        {
+          "year": "1963",
+          "title": "Malaysia",
+          "detail": "Struktur persekutuan disesuaikan dengan pembentukan Malaysia."
+        }
+      ],
+      "chain": [
+        "Pengagihan kuasa mengelakkan pertindihan",
+        "Kerjasama pusat-negeri menyelaras perkhidmatan",
+        "Pentadbiran lebih tersusun"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 15,
+      "form": 5,
+      "number": 5,
+      "title": "Pembentukan Malaysia",
+      "icon": "🗺️",
+      "subtitle": "Proses menjayakan gagasan Malaysia",
+      "facts": [
+        "Tunku Abdul Rahman mengemukakan gagasan Malaysia pada 27 Mei 1961.",
+        "Suruhanjaya Cobbold meninjau pandangan penduduk Sabah dan Sarawak.",
+        "Perjanjian Malaysia ditandatangani pada 9 Julai 1963.",
+        "Malaysia dibentuk pada 16 September 1963 oleh Persekutuan Tanah Melayu, Sabah, Sarawak dan Singapura; Singapura berpisah pada 1965."
+      ],
+      "events": [
+        {
+          "year": "27 Mei 1961",
+          "title": "Gagasan Malaysia",
+          "detail": "Tunku Abdul Rahman mencadangkan pembentukan Malaysia."
+        },
+        {
+          "year": "1962",
+          "title": "Suruhanjaya Cobbold",
+          "detail": "Pandangan penduduk Sabah dan Sarawak dikaji."
+        },
+        {
+          "year": "9 Julai 1963",
+          "title": "Perjanjian Malaysia",
+          "detail": "MA63 ditandatangani di London."
+        },
+        {
+          "year": "16 September 1963",
+          "title": "Pembentukan Malaysia",
+          "detail": "Malaysia diisytiharkan."
+        },
+        {
+          "year": "1965",
+          "title": "Pemisahan Singapura",
+          "detail": "Singapura keluar daripada Malaysia."
+        }
+      ],
+      "chain": [
+        "Cadangan politik dibincang bersama wilayah terlibat",
+        "Siasatan dan rundingan membuka jalan kepada persetujuan",
+        "Persekutuan Malaysia dibentuk"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 16,
+      "form": 5,
+      "number": 6,
+      "title": "Cabaran Selepas Pembentukan Malaysia",
+      "icon": "🧭",
+      "subtitle": "Menyelesaikan cabaran negara baharu",
+      "facts": [
+        "Malaysia berdepan cabaran politik, ekonomi dan keselamatan selepas 1963.",
+        "Konfrontasi Indonesia-Malaysia berlaku ketika pembentukan Malaysia dan berakhir pada 1966.",
+        "Singapura berpisah daripada Malaysia pada 9 Ogos 1965.",
+        "Tragedi 13 Mei 1969 membawa usaha baharu mengukuhkan perpaduan negara."
+      ],
+      "events": [
+        {
+          "year": "1963",
+          "title": "Pembentukan Malaysia",
+          "detail": "Negara baharu memerlukan kerjasama wilayah."
+        },
+        {
+          "year": "1965",
+          "title": "Pemisahan Singapura",
+          "detail": "Singapura berpisah pada 9 Ogos."
+        },
+        {
+          "year": "1966",
+          "title": "Tamat Konfrontasi",
+          "detail": "Hubungan Malaysia-Indonesia dipulihkan."
+        },
+        {
+          "year": "1969",
+          "title": "Peristiwa 13 Mei",
+          "detail": "Krisis perpaduan membawa langkah pemulihan."
+        }
+      ],
+      "chain": [
+        "Cabaran politik dan keselamatan timbul",
+        "Dasar pemulihan dan rundingan dilakukan",
+        "Perpaduan dan kestabilan diberi tumpuan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 17,
+      "form": 5,
+      "number": 7,
+      "title": "Membina Kesejahteraan Negara",
+      "icon": "🧑‍🤝‍🧑",
+      "subtitle": "Perpaduan dan identiti kebangsaan",
+      "facts": [
+        "Dasar Pendidikan Kebangsaan bertujuan membentuk sistem pendidikan yang menyatukan rakyat.",
+        "Bahasa Melayu berperanan sebagai bahasa kebangsaan.",
+        "Rukun Negara diisytiharkan pada 31 Ogos 1970 untuk memperkukuh perpaduan.",
+        "Dasar Kebudayaan Kebangsaan turut menyokong pembentukan identiti kebangsaan."
+      ],
+      "events": [
+        {
+          "year": "1956",
+          "title": "Penyata Razak",
+          "detail": "Cadangan sistem pendidikan kebangsaan."
+        },
+        {
+          "year": "1969",
+          "title": "Peristiwa 13 Mei",
+          "detail": "Cabaran serius terhadap hubungan kaum."
+        },
+        {
+          "year": "1970",
+          "title": "Rukun Negara",
+          "detail": "Prinsip perpaduan negara diisytiharkan."
+        },
+        {
+          "year": "1971",
+          "title": "Dasar Kebudayaan Kebangsaan",
+          "detail": "Usaha membentuk identiti kebudayaan negara."
+        }
+      ],
+      "chain": [
+        "Pendidikan dan bahasa membina persefahaman",
+        "Rukun Negara menggariskan prinsip bersama",
+        "Perpaduan menjadi asas kesejahteraan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 18,
+      "form": 5,
+      "number": 8,
+      "title": "Membina Kemakmuran Negara",
+      "icon": "📈",
+      "subtitle": "Dasar ekonomi dan pembangunan seimbang",
+      "facts": [
+        "Dasar Ekonomi Baru (DEB) dilaksanakan dari 1971 hingga 1990.",
+        "Matlamat DEB ialah membasmi kemiskinan tanpa mengira kaum dan menyusun semula masyarakat.",
+        "Dasar Pembangunan Nasional (DPN) menyusuli DEB mulai 1991.",
+        "Pembangunan wilayah dan perindustrian mendorong pertumbuhan ekonomi negara."
+      ],
+      "events": [
+        {
+          "year": "1971",
+          "title": "Dasar Ekonomi Baru",
+          "detail": "Dasar sosioekonomi untuk mengurangkan kemiskinan dan ketidakseimbangan."
+        },
+        {
+          "year": "1990",
+          "title": "Akhir tempoh DEB",
+          "detail": "Penilaian pencapaian dasar ekonomi."
+        },
+        {
+          "year": "1991",
+          "title": "Dasar Pembangunan Nasional",
+          "detail": "Menyambung usaha pembangunan seimbang."
+        }
+      ],
+      "chain": [
+        "Jurang sosioekonomi memerlukan dasar khusus",
+        "Pembangunan dan peluang pekerjaan diperkukuh",
+        "Kemakmuran yang lebih inklusif diusahakan"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 19,
+      "form": 5,
+      "number": 9,
+      "title": "Dasar Luar Malaysia",
+      "icon": "🌏",
+      "subtitle": "Hubungan diplomatik dan kepentingan negara",
+      "facts": [
+        "Dasar luar melindungi kedaulatan, keselamatan dan kepentingan negara.",
+        "Malaysia menganggotai Pertubuhan Bangsa-Bangsa Bersatu pada 17 September 1957.",
+        "ASEAN ditubuhkan pada 8 Ogos 1967 dengan Malaysia sebagai salah satu negara pengasas.",
+        "Malaysia terlibat dalam Komanwel, NAM dan OIC."
+      ],
+      "events": [
+        {
+          "year": "1957",
+          "title": "Keanggotaan PBB",
+          "detail": "Persekutuan Tanah Melayu menyertai PBB."
+        },
+        {
+          "year": "1967",
+          "title": "Penubuhan ASEAN",
+          "detail": "Kerjasama serantau diperkukuh."
+        },
+        {
+          "year": "1970-an",
+          "title": "Dasar berkecuali",
+          "detail": "Hubungan luar disesuaikan dengan perubahan geopolitik."
+        },
+        {
+          "year": "Kini",
+          "title": "Kerjasama antarabangsa",
+          "detail": "Diplomasi, perdagangan dan keamanan diteruskan."
+        }
+      ],
+      "chain": [
+        "Kepentingan negara menentukan dasar luar",
+        "Diplomasi membuka ruang kerjasama",
+        "Keamanan dan perdagangan diperkukuh"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    },
+    {
+      "id": 20,
+      "form": 5,
+      "number": 10,
+      "title": "Kecemerlangan Malaysia di Persada Dunia",
+      "icon": "🏅",
+      "subtitle": "Peranan Malaysia dalam isu global",
+      "facts": [
+        "Malaysia menyumbang kepada keamanan dunia melalui penyertaan misi pengaman PBB.",
+        "Negara turut mengambil bahagian dalam kerjasama ekonomi dan pembangunan antarabangsa.",
+        "Isu kemanusiaan, alam sekitar dan keselamatan global memerlukan kerjasama pelbagai negara.",
+        "Pencapaian di persada dunia berkait dengan diplomasi dan penglibatan aktif rakyat serta institusi."
+      ],
+      "events": [
+        {
+          "year": "1957",
+          "title": "Penglibatan dunia",
+          "detail": "Hubungan diplomatik Malaysia berkembang selepas merdeka."
+        },
+        {
+          "year": "1960",
+          "title": "Misi pengaman PBB",
+          "detail": "Pasukan Malaya menyertai misi PBB di Congo."
+        },
+        {
+          "year": "1990-an",
+          "title": "Peranan antarabangsa",
+          "detail": "Malaysia menyertai pelbagai usaha diplomatik dan pembangunan."
+        },
+        {
+          "year": "Kini",
+          "title": "Isu global",
+          "detail": "Kerjasama berkaitan keamanan, alam sekitar dan kemanusiaan diteruskan."
+        }
+      ],
+      "chain": [
+        "Kerjasama antarabangsa membuka peluang",
+        "Sumbangan misi dan diplomasi mendapat pengiktirafan",
+        "Nama Malaysia diperkukuh di persada dunia"
+      ],
+      "visual": "Ilustrasi pendidikan, bukan imej arkib rasmi"
+    }
+  ],
+  "questions": [
+    {
+      "chapter": 1,
+      "difficulty": "R",
+      "q": "Apakah kedudukan raja dalam Kesultanan Melayu Melaka?",
+      "opts": [
+        "Penghulu kampung",
+        "Pemerintah tertinggi kerajaan",
+        "Ketua angkatan tentera British",
+        "Wakil Parlimen"
+      ],
+      "a": 1,
+      "explain": "Raja mengetuai pemerintahan dalam Kesultanan Melayu Melaka."
+    },
+    {
+      "chapter": 1,
+      "difficulty": "R",
+      "q": "Yang manakah ciri negara bangsa Kesultanan Melayu Melaka?",
+      "opts": [
+        "Perlembagaan bertulis moden",
+        "Sistem kabinet moden",
+        "Wilayah pengaruh",
+        "Pilihan raya umum"
+      ],
+      "a": 2,
+      "explain": "Wilayah pengaruh ialah antara ciri negara bangsa Kesultanan Melayu Melaka."
+    },
+    {
+      "chapter": 1,
+      "difficulty": "R",
+      "q": "Apakah fungsi Hukum Kanun Melaka?",
+      "opts": [
+        "Memilih Ahli Parlimen",
+        "Menetapkan dasar luar ASEAN",
+        "Mengurus pilihan raya",
+        "Panduan undang-undang dan pentadbiran"
+      ],
+      "a": 3,
+      "explain": "Hukum Kanun Melaka menjadi sumber peraturan dan pentadbiran."
+    },
+    {
+      "chapter": 1,
+      "difficulty": "S",
+      "q": "Mengapakah sistem Pembesar Empat Lipatan penting?",
+      "opts": [
+        "Melancarkan pentadbiran dan tugas pemerintahan",
+        "Menghapuskan kedudukan sultan",
+        "Menggantikan perdagangan dengan pertanian",
+        "Menamatkan hubungan luar"
+      ],
+      "a": 0,
+      "explain": "Pembesar mempunyai tugas pentadbiran khusus yang membantu sultan."
+    },
+    {
+      "chapter": 1,
+      "difficulty": "T",
+      "q": "Sebuah kerajaan mahu mengukuhkan kewibawaan tanpa bergantung pada kuasa luar. Pengajaran manakah paling sesuai daripada Kesultanan Melayu Melaka?",
+      "opts": [
+        "Menyekat perdagangan seluruhnya",
+        "Memperkukuh institusi dan pematuhan undang-undang",
+        "Mengabaikan pentadbiran",
+        "Membubarkan semua peraturan"
+      ],
+      "a": 1,
+      "explain": "Pentadbiran berkesan dan undang-undang yang dihormati menyokong kedaulatan."
+    },
+    {
+      "chapter": 2,
+      "difficulty": "R",
+      "q": "Apakah maksud nasionalisme?",
+      "opts": [
+        "Sistem percukaian tanah",
+        "Perpindahan penduduk",
+        "Perasaan cinta akan bangsa dan negara",
+        "Kegiatan perdagangan antarabangsa"
+      ],
+      "a": 2,
+      "explain": "Nasionalisme berkait kesedaran kebangsaan dan usaha mempertahankan negara."
+    },
+    {
+      "chapter": 2,
+      "difficulty": "R",
+      "q": "Revolusi Perancis berlaku pada tahun berapa?",
+      "opts": [
+        "1688",
+        "1914",
+        "1948",
+        "1789"
+      ],
+      "a": 3,
+      "explain": "Revolusi Perancis bermula pada 1789."
+    },
+    {
+      "chapter": 2,
+      "difficulty": "R",
+      "q": "Apakah peranan akhbar dalam perkembangan nasionalisme di negara kita?",
+      "opts": [
+        "Menyebarkan idea dan kesedaran kebangsaan",
+        "Menggantikan kerajaan secara automatik",
+        "Menyekat ilmu masyarakat",
+        "Menghentikan semua persatuan"
+      ],
+      "a": 0,
+      "explain": "Akhbar membantu menyebarkan idea dan perdebatan masyarakat."
+    },
+    {
+      "chapter": 2,
+      "difficulty": "S",
+      "q": "Mengapakah golongan intelektual berperanan dalam nasionalisme?",
+      "opts": [
+        "Mereka mengharamkan persatuan",
+        "Mereka membawa idea pembaharuan melalui pendidikan dan penulisan",
+        "Mereka menolak semua kegiatan pendidikan",
+        "Mereka menghapuskan komunikasi"
+      ],
+      "a": 1,
+      "explain": "Pendidikan dan penulisan menyumbang kepada kesedaran politik."
+    },
+    {
+      "chapter": 2,
+      "difficulty": "T",
+      "q": "Bagaimanakah pelajar masa kini boleh meneruskan semangat nasionalisme secara matang?",
+      "opts": [
+        "Memusuhi semua pandangan berbeza",
+        "Mengabaikan tanggungjawab kewarganegaraan",
+        "Menilai maklumat dan menjaga perpaduan masyarakat",
+        "Menyebarkan berita palsu"
+      ],
+      "a": 2,
+      "explain": "Semangat kebangsaan perlu dipandu fakta, ilmu dan tanggungjawab."
+    },
+    {
+      "chapter": 3,
+      "difficulty": "R",
+      "q": "Bilakah Perang Dunia Kedua bermula di Eropah?",
+      "opts": [
+        "1914",
+        "1948",
+        "1957",
+        "1939"
+      ],
+      "a": 3,
+      "explain": "Perang Dunia Kedua bermula pada 1939."
+    },
+    {
+      "chapter": 3,
+      "difficulty": "R",
+      "q": "Pada tahun berapakah tentera Jepun menyerang Tanah Melayu?",
+      "opts": [
+        "1941",
+        "1931",
+        "1955",
+        "1963"
+      ],
+      "a": 0,
+      "explain": "Jepun menyerang Tanah Melayu pada Disember 1941."
+    },
+    {
+      "chapter": 3,
+      "difficulty": "R",
+      "q": "Apakah antara kepentingan Tanah Melayu kepada Jepun semasa perang?",
+      "opts": [
+        "Sebagai ibu pejabat PBB",
+        "Sumber bahan mentah dan lokasi strategik",
+        "Sebagai pusat Parlimen British",
+        "Untuk membina ASEAN"
+      ],
+      "a": 1,
+      "explain": "Tanah Melayu kaya sumber dan memiliki kedudukan strategik."
+    },
+    {
+      "chapter": 3,
+      "difficulty": "S",
+      "q": "Apakah kesan utama pendudukan Jepun kepada penduduk tempatan?",
+      "opts": [
+        "Pembentukan ASEAN",
+        "Perlembagaan 1957",
+        "Kesukaran hidup dan kekurangan bekalan",
+        "Pilihan raya umum 1955"
+      ],
+      "a": 2,
+      "explain": "Pendudukan Jepun mengganggu ekonomi dan kehidupan masyarakat."
+    },
+    {
+      "chapter": 3,
+      "difficulty": "T",
+      "q": "Mengapakah pengalaman pendudukan Jepun menguatkan kesedaran politik tempatan?",
+      "opts": [
+        "Rakyat tidak lagi perlu bersatu",
+        "Semua ancaman keselamatan hilang",
+        "Semua dasar penjajah diterima tanpa kritik",
+        "Rakyat melihat kepentingan mempertahankan negara sendiri"
+      ],
+      "a": 3,
+      "explain": "Pengalaman perang meningkatkan kesedaran tentang kedaulatan dan perjuangan."
+    },
+    {
+      "chapter": 4,
+      "difficulty": "R",
+      "q": "Apakah singkatan BMA?",
+      "opts": [
+        "British Military Administration",
+        "British Maritime Alliance",
+        "Borneo Malaysia Authority",
+        "Badan Masyarakat Awam"
+      ],
+      "a": 0,
+      "explain": "BMA ialah pentadbiran tentera British selepas Jepun menyerah kalah."
+    },
+    {
+      "chapter": 4,
+      "difficulty": "R",
+      "q": "Malayan Union mula berkuat kuasa pada tahun berapa?",
+      "opts": [
+        "1963",
+        "1946",
+        "1941",
+        "1955"
+      ],
+      "a": 1,
+      "explain": "Malayan Union dikuatkuasakan pada 1 April 1946."
+    },
+    {
+      "chapter": 4,
+      "difficulty": "R",
+      "q": "Mengapakah orang Melayu menentang Malayan Union?",
+      "opts": [
+        "Malaysia keluar daripada ASEAN",
+        "Perang Dunia Pertama bermula",
+        "Kedudukan Raja-raja Melayu dan syarat kewarganegaraan menimbulkan kebimbangan",
+        "Pilihan raya 1955 dibatalkan"
+      ],
+      "a": 2,
+      "explain": "Isu kuasa raja dan kewarganegaraan menjadi bantahan utama."
+    },
+    {
+      "chapter": 4,
+      "difficulty": "S",
+      "q": "Bagaimanakah penentangan Malayan Union disuarakan?",
+      "opts": [
+        "Melalui referendum ASEAN",
+        "Melalui sidang PBB 1970",
+        "Melalui sistem e-undi",
+        "Melalui kongres, persatuan, akhbar dan perhimpunan"
+      ],
+      "a": 3,
+      "explain": "Penentangan dilakukan secara tersusun oleh pelbagai pertubuhan."
+    },
+    {
+      "chapter": 4,
+      "difficulty": "T",
+      "q": "Apakah iktibar terpenting daripada penentangan Malayan Union?",
+      "opts": [
+        "Perundingan dan permuafakatan boleh mempengaruhi dasar",
+        "Semua bantahan mesti menggunakan kekerasan",
+        "Peranan masyarakat tidak penting",
+        "Kesatuan rakyat menghalang perubahan"
+      ],
+      "a": 0,
+      "explain": "Gerakan yang tersusun dapat membawa perubahan dasar."
+    },
+    {
+      "chapter": 5,
+      "difficulty": "R",
+      "q": "Persekutuan Tanah Melayu 1948 menggantikan pentadbiran manakah?",
+      "opts": [
+        "Majlis Raja-Raja moden",
+        "Malayan Union",
+        "ASEAN",
+        "Sistem Ahli"
+      ],
+      "a": 1,
+      "explain": "Persekutuan 1948 diwujudkan menggantikan Malayan Union."
+    },
+    {
+      "chapter": 5,
+      "difficulty": "R",
+      "q": "Bilakah Persekutuan Tanah Melayu 1948 ditubuhkan?",
+      "opts": [
+        "16 September 1963",
+        "9 Julai 1963",
+        "1 Februari 1948",
+        "31 Ogos 1957"
+      ],
+      "a": 2,
+      "explain": "Persekutuan Tanah Melayu bermula pada 1 Februari 1948."
+    },
+    {
+      "chapter": 5,
+      "difficulty": "R",
+      "q": "Apakah antara kesan pembentukan Persekutuan 1948?",
+      "opts": [
+        "Sistem beraja dimansuhkan",
+        "Kesemua negeri menjadi republik",
+        "Penubuhan PBB dibatalkan",
+        "Kedudukan Raja-raja Melayu dipulihkan dalam kerangka pentadbiran"
+      ],
+      "a": 3,
+      "explain": "Persekutuan mengambil kira kedudukan Raja-raja Melayu."
+    },
+    {
+      "chapter": 5,
+      "difficulty": "S",
+      "q": "Apakah perubahan penting berkaitan kewarganegaraan 1948?",
+      "opts": [
+        "Syarat kewarganegaraan diperketat berbanding Malayan Union",
+        "Semua syarat dihapuskan",
+        "Semua penduduk Asia menjadi warganegara automatik",
+        "Hak mengundi SPM diperkenalkan"
+      ],
+      "a": 0,
+      "explain": "Syarat kewarganegaraan Persekutuan 1948 lebih ketat."
+    },
+    {
+      "chapter": 5,
+      "difficulty": "T",
+      "q": "Mengapakah Persekutuan Tanah Melayu 1948 dianggap langkah ke arah kemerdekaan?",
+      "opts": [
+        "Memutuskan hubungan seluruh negeri",
+        "Membentuk kerangka persekutuan untuk rundingan politik seterusnya",
+        "Menghalang semua kegiatan politik tempatan",
+        "Membubarkan pentadbiran awam"
+      ],
+      "a": 1,
+      "explain": "Persekutuan menjadi landasan perlembagaan dan kemerdekaan."
+    },
+    {
+      "chapter": 6,
+      "difficulty": "R",
+      "q": "Darurat di Tanah Melayu diisytiharkan pada tahun berapa?",
+      "opts": [
+        "1957",
+        "1967",
+        "1948",
+        "1939"
+      ],
+      "a": 2,
+      "explain": "Darurat bermula pada 1948."
+    },
+    {
+      "chapter": 6,
+      "difficulty": "R",
+      "q": "Pada tahun berapakah Darurat Tanah Melayu berakhir?",
+      "opts": [
+        "1945",
+        "1955",
+        "1971",
+        "1960"
+      ],
+      "a": 3,
+      "explain": "Darurat Persekutuan Tanah Melayu ditamatkan pada 1960."
+    },
+    {
+      "chapter": 6,
+      "difficulty": "R",
+      "q": "Apakah tujuan Rancangan Briggs?",
+      "opts": [
+        "Memutuskan hubungan gerila komunis dengan sumber bekalan dan sokongan",
+        "Menubuhkan Suruhanjaya Reid",
+        "Menjalankan pilihan raya 1955",
+        "Menubuhkan ASEAN"
+      ],
+      "a": 0,
+      "explain": "Rancangan Briggs mengurangkan akses gerila kepada bekalan dan maklumat."
+    },
+    {
+      "chapter": 6,
+      "difficulty": "S",
+      "q": "Rundingan Baling diadakan pada tahun berapa?",
+      "opts": [
+        "1976",
+        "1955",
+        "1941",
+        "1969"
+      ],
+      "a": 1,
+      "explain": "Rundingan Baling berlangsung pada 1955."
+    },
+    {
+      "chapter": 6,
+      "difficulty": "T",
+      "q": "Apakah pendekatan paling berkesan menurut pengalaman Darurat?",
+      "opts": [
+        "Mengabaikan keselamatan awam",
+        "Menamatkan semua kegiatan ekonomi",
+        "Gabungan keselamatan, pembangunan dan sokongan rakyat",
+        "Tindakan ketenteraan tanpa perhatian kepada rakyat"
+      ],
+      "a": 2,
+      "explain": "Usaha keselamatan turut melibatkan sokongan masyarakat."
+    },
+    {
+      "chapter": 7,
+      "difficulty": "R",
+      "q": "Apakah maksud CLC dalam sejarah kemerdekaan?",
+      "opts": [
+        "Suruhanjaya Pilihan Raya",
+        "Majlis Keselamatan Negara",
+        "Gabungan Negeri Borneo",
+        "Jawatankuasa Hubungan Antara Kaum"
+      ],
+      "a": 3,
+      "explain": "CLC ialah Communities Liaison Committee."
+    },
+    {
+      "chapter": 7,
+      "difficulty": "R",
+      "q": "Sistem Ahli diperkenalkan pada tahun berapa?",
+      "opts": [
+        "1951",
+        "1941",
+        "1963",
+        "1970"
+      ],
+      "a": 0,
+      "explain": "Sistem Ahli bermula pada 1951."
+    },
+    {
+      "chapter": 7,
+      "difficulty": "R",
+      "q": "Apakah fungsi utama Sistem Ahli?",
+      "opts": [
+        "Menghapuskan semua jabatan",
+        "Melatih pemimpin tempatan dalam bidang pentadbiran",
+        "Mewujudkan tentera Jepun",
+        "Menentukan sempadan ASEAN"
+      ],
+      "a": 1,
+      "explain": "Sistem Ahli memberi pengalaman pentadbiran kepada tokoh tempatan."
+    },
+    {
+      "chapter": 7,
+      "difficulty": "S",
+      "q": "Apakah sumbangan CLC?",
+      "opts": [
+        "Memilih Yang di-Pertuan Agong",
+        "Mengurus misi PBB",
+        "Menggalakkan persefahaman dan kerjasama antara kaum",
+        "Menyerahkan negara kepada Jepun"
+      ],
+      "a": 2,
+      "explain": "CLC menjadi ruang perbincangan isu antara kaum."
+    },
+    {
+      "chapter": 7,
+      "difficulty": "T",
+      "q": "Apakah kesimpulan yang sesuai tentang usaha kemerdekaan?",
+      "opts": [
+        "Perundingan tidak berguna",
+        "Perbezaan harus dibiarkan tanpa dialog",
+        "Hanya satu golongan terlibat dalam kemerdekaan",
+        "Permuafakatan antara komuniti membantu mencapai matlamat bersama"
+      ],
+      "a": 3,
+      "explain": "Kerjasama dan rundingan amat penting dalam proses kemerdekaan."
+    },
+    {
+      "chapter": 8,
+      "difficulty": "R",
+      "q": "Pilihan Raya Majlis Perundangan Persekutuan berlangsung pada tahun berapa?",
+      "opts": [
+        "1955",
+        "1948",
+        "1957",
+        "1963"
+      ],
+      "a": 0,
+      "explain": "Pilihan raya persekutuan berlangsung pada 1955."
+    },
+    {
+      "chapter": 8,
+      "difficulty": "R",
+      "q": "Berapa kerusi yang dimenangi Parti Perikatan dalam pilihan raya persekutuan 1955?",
+      "opts": [
+        "10 daripada 52",
+        "51 daripada 52",
+        "20 daripada 52",
+        "52 daripada 52"
+      ],
+      "a": 1,
+      "explain": "Parti Perikatan memenangi 51 daripada 52 kerusi."
+    },
+    {
+      "chapter": 8,
+      "difficulty": "R",
+      "q": "Apakah kepentingan pilihan raya dalam sistem demokrasi?",
+      "opts": [
+        "Undang-undang dihapuskan",
+        "Parlimen dibubarkan selama-lamanya",
+        "Rakyat memilih wakil untuk mewakili kepentingan mereka",
+        "Kuasa diserahkan kepada tentera asing"
+      ],
+      "a": 2,
+      "explain": "Pilihan raya ialah unsur perwakilan rakyat."
+    },
+    {
+      "chapter": 8,
+      "difficulty": "S",
+      "q": "Pilihan raya tempatan pertama di Tanah Melayu diadakan pada 1951 di mana?",
+      "opts": [
+        "Kuching",
+        "Kota Kinabalu",
+        "Johor Bahru",
+        "George Town"
+      ],
+      "a": 3,
+      "explain": "Pilihan Raya Majlis Perbandaran George Town diadakan pada 1951."
+    },
+    {
+      "chapter": 8,
+      "difficulty": "T",
+      "q": "Mengapakah pilihan raya 1955 mempercepatkan perjalanan kemerdekaan?",
+      "opts": [
+        "Menunjukkan kesediaan pemimpin tempatan membentuk kerajaan sendiri",
+        "Menamatkan proses rundingan",
+        "Menghapuskan semua parti politik",
+        "Mengembalikan pemerintahan tentera Jepun"
+      ],
+      "a": 0,
+      "explain": "Pilihan raya membuktikan kemampuan pentadbiran tempatan."
+    },
+    {
+      "chapter": 9,
+      "difficulty": "R",
+      "q": "Siapakah yang mempengerusikan Suruhanjaya Reid?",
+      "opts": [
+        "Dato' Onn Jaafar",
+        "Lord Reid",
+        "Tunku Abdul Rahman",
+        "Tun Razak"
+      ],
+      "a": 1,
+      "explain": "Suruhanjaya Reid dipengerusikan oleh Lord Reid."
+    },
+    {
+      "chapter": 9,
+      "difficulty": "R",
+      "q": "Suruhanjaya Reid ditubuhkan pada tahun berapa?",
+      "opts": [
+        "1963",
+        "1970",
+        "1956",
+        "1946"
+      ],
+      "a": 2,
+      "explain": "Suruhanjaya Reid dibentuk pada 1956."
+    },
+    {
+      "chapter": 9,
+      "difficulty": "R",
+      "q": "Mengapakah perlembagaan diperlukan sebelum kemerdekaan?",
+      "opts": [
+        "Menentukan keputusan peperiksaan SPM",
+        "Membentuk pasukan Jepun",
+        "Menggantikan semua adat secara automatik",
+        "Menjadi kerangka undang-undang bagi negara merdeka"
+      ],
+      "a": 3,
+      "explain": "Negara merdeka memerlukan kerangka institusi dan hak."
+    },
+    {
+      "chapter": 9,
+      "difficulty": "S",
+      "q": "Apakah sumber pertimbangan Suruhanjaya Reid?",
+      "opts": [
+        "Pandangan dan memorandum pelbagai pihak",
+        "Arahan ASEAN yang belum ditubuhkan",
+        "Perlembagaan PBB sahaja",
+        "Keputusan pilihan raya 1969 sahaja"
+      ],
+      "a": 0,
+      "explain": "Suruhanjaya menimbang memorandum dan pandangan pelbagai pihak."
+    },
+    {
+      "chapter": 9,
+      "difficulty": "T",
+      "q": "Bagaimanakah perlembagaan menyumbang kepada kestabilan negara?",
+      "opts": [
+        "Menggantikan semua institusi dengan tentera",
+        "Menjelaskan kuasa, hak dan proses pentadbiran",
+        "Membenarkan semua keputusan tanpa undang-undang",
+        "Menghalang penyertaan rakyat sepenuhnya"
+      ],
+      "a": 1,
+      "explain": "Peraturan asas yang jelas mengurangkan pertikaian bidang kuasa."
+    },
+    {
+      "chapter": 10,
+      "difficulty": "R",
+      "q": "Apakah tarikh kemerdekaan Persekutuan Tanah Melayu?",
+      "opts": [
+        "1 Februari 1948",
+        "9 Ogos 1965",
+        "31 Ogos 1957",
+        "16 September 1963"
+      ],
+      "a": 2,
+      "explain": "Tarikh kemerdekaan ialah 31 Ogos 1957."
+    },
+    {
+      "chapter": 10,
+      "difficulty": "R",
+      "q": "Di manakah pemasyhuran kemerdekaan pada 31 Ogos 1957 berlangsung?",
+      "opts": [
+        "Bangunan Parlimen",
+        "Dewan Tunku Canselor",
+        "Kompleks ASEAN",
+        "Stadium Merdeka"
+      ],
+      "a": 3,
+      "explain": "Pemasyhuran berlangsung di Stadium Merdeka, Kuala Lumpur."
+    },
+    {
+      "chapter": 10,
+      "difficulty": "R",
+      "q": "Siapakah tokoh utama yang memasyhurkan kemerdekaan Tanah Melayu?",
+      "opts": [
+        "Tunku Abdul Rahman Putra Al-Haj",
+        "Tun Dr Ismail",
+        "Lord Reid",
+        "Sir Harold Briggs"
+      ],
+      "a": 0,
+      "explain": "Tunku Abdul Rahman memasyhurkan kemerdekaan."
+    },
+    {
+      "chapter": 10,
+      "difficulty": "S",
+      "q": "Apakah perbezaan utama 31 Ogos 1957 dan 16 September 1963?",
+      "opts": [
+        "1957 Malayan Union; 1963 BMA",
+        "1957 kemerdekaan Tanah Melayu; 1963 pembentukan Malaysia",
+        "Kedua-duanya tarikh pilihan raya 1955",
+        "1957 penubuhan ASEAN; 1963 PBB"
+      ],
+      "a": 1,
+      "explain": "Kedua-dua tarikh memperingati peristiwa sejarah yang berbeza."
+    },
+    {
+      "chapter": 10,
+      "difficulty": "T",
+      "q": "Apakah penghayatan paling sesuai terhadap kemerdekaan?",
+      "opts": [
+        "Menghapuskan perpaduan",
+        "Menolak pendidikan sejarah",
+        "Mempertahankan kedaulatan dan menyumbang kepada keharmonian negara",
+        "Mengabaikan perlembagaan"
+      ],
+      "a": 2,
+      "explain": "Kemerdekaan perlu dipelihara melalui tindakan warganegara."
+    },
+    {
+      "chapter": 11,
+      "difficulty": "R",
+      "q": "Apakah maksud kedaulatan?",
+      "opts": [
+        "Bilangan penduduk semata-mata",
+        "Jumlah perdagangan antarabangsa",
+        "Jenis makanan kebangsaan",
+        "Kuasa tertinggi sesebuah negara"
+      ],
+      "a": 3,
+      "explain": "Kedaulatan merujuk kuasa tertinggi sesebuah negara."
+    },
+    {
+      "chapter": 11,
+      "difficulty": "R",
+      "q": "Antara berikut yang manakah ciri negara berdaulat?",
+      "opts": [
+        "Mempunyai sempadan",
+        "Tiada undang-undang",
+        "Tiada rakyat",
+        "Ditadbir sepenuhnya oleh kuasa asing"
+      ],
+      "a": 0,
+      "explain": "Sempadan ialah salah satu ciri negara berdaulat."
+    },
+    {
+      "chapter": 11,
+      "difficulty": "S",
+      "q": "Mengapakah undang-undang penting bagi negara berdaulat?",
+      "opts": [
+        "Menyekat perdagangan sepanjang masa",
+        "Menjamin ketenteraman dan mengatur kehidupan masyarakat",
+        "Menghapuskan semua tanggungjawab",
+        "Menggantikan kewujudan rakyat"
+      ],
+      "a": 1,
+      "explain": "Undang-undang menjamin ketenteraman dan melindungi masyarakat."
+    },
+    {
+      "chapter": 11,
+      "difficulty": "S",
+      "q": "Apakah peranan perpaduan dalam mempertahankan kedaulatan?",
+      "opts": [
+        "Menghapuskan dasar awam",
+        "Memansuhkan undang-undang",
+        "Mengurangkan konflik dalaman dan mengukuhkan negara",
+        "Menjadikan negara lemah"
+      ],
+      "a": 2,
+      "explain": "Perpaduan menyokong kestabilan dan keselamatan."
+    },
+    {
+      "chapter": 11,
+      "difficulty": "T",
+      "q": "Tindakan manakah wajar apabila maklumat palsu mengancam keharmonian?",
+      "opts": [
+        "Menyebarkan tanpa semakan",
+        "Membuat dakwaan tanpa bukti",
+        "Menolak semua saluran rasmi",
+        "Menyemak kesahihan sumber sebelum berkongsi"
+      ],
+      "a": 3,
+      "explain": "Literasi maklumat membantu menjaga keharmonian serta kedaulatan."
+    },
+    {
+      "chapter": 12,
+      "difficulty": "R",
+      "q": "Apakah undang-undang tertinggi Malaysia?",
+      "opts": [
+        "Perlembagaan Persekutuan",
+        "Peraturan kelab sekolah",
+        "Akta syarikat sahaja",
+        "Undang-undang antarabangsa semata-mata"
+      ],
+      "a": 0,
+      "explain": "Perlembagaan Persekutuan ialah undang-undang tertinggi."
+    },
+    {
+      "chapter": 12,
+      "difficulty": "R",
+      "q": "Perlembagaan Persekutuan Tanah Melayu berkuat kuasa pada tahun berapa?",
+      "opts": [
+        "1991",
+        "1957",
+        "1941",
+        "1969"
+      ],
+      "a": 1,
+      "explain": "Perlembagaan kemerdekaan berkuat kuasa pada 1957."
+    },
+    {
+      "chapter": 12,
+      "difficulty": "S",
+      "q": "Apakah fungsi perlembagaan?",
+      "opts": [
+        "Menetapkan setiap keputusan peperiksaan",
+        "Membubarkan Parlimen secara kekal",
+        "Menetapkan struktur kerajaan dan hak mengikut undang-undang",
+        "Menggantikan semua institusi pendidikan"
+      ],
+      "a": 2,
+      "explain": "Perlembagaan menyediakan kerangka asas negara."
+    },
+    {
+      "chapter": 12,
+      "difficulty": "S",
+      "q": "Bagaimanakah pindaan perlembagaan dilakukan?",
+      "opts": [
+        "Melalui undian kelas sekolah",
+        "Dengan keputusan individu tanpa proses",
+        "Melalui perintah negara asing",
+        "Mengikut prosedur yang ditetapkan Perlembagaan"
+      ],
+      "a": 3,
+      "explain": "Pindaan tertakluk kepada kaedah dan majoriti yang diperuntukkan."
+    },
+    {
+      "chapter": 12,
+      "difficulty": "T",
+      "q": "Mengapakah prinsip keluhuran perlembagaan perlu dihormati?",
+      "opts": [
+        "Supaya kuasa awam digunakan menurut undang-undang",
+        "Supaya hak rakyat diabaikan",
+        "Supaya tiada semak imbang",
+        "Supaya semua peraturan tidak berfungsi"
+      ],
+      "a": 0,
+      "explain": "Keluhuran perlembagaan memandu keabsahan tindakan pemerintah."
+    },
+    {
+      "chapter": 13,
+      "difficulty": "R",
+      "q": "Siapakah Ketua Utama Negara Malaysia?",
+      "opts": [
+        "Peguam Negara",
+        "Yang di-Pertuan Agong",
+        "Yang Dipertua Dewan Rakyat",
+        "Ketua Setiausaha Negara"
+      ],
+      "a": 1,
+      "explain": "Perlembagaan meletakkan Yang di-Pertuan Agong sebagai Ketua Utama Negara."
+    },
+    {
+      "chapter": 13,
+      "difficulty": "R",
+      "q": "Yang manakah komponen Parlimen Persekutuan?",
+      "opts": [
+        "Mahkamah Sesyen",
+        "Jawatankuasa Penduduk",
+        "Dewan Rakyat",
+        "Majlis Perbandaran"
+      ],
+      "a": 2,
+      "explain": "Dewan Rakyat ialah komponen Parlimen Persekutuan."
+    },
+    {
+      "chapter": 13,
+      "difficulty": "S",
+      "q": "Apakah peranan Dewan Rakyat?",
+      "opts": [
+        "Mengadili kes jenayah",
+        "Mengetuai angkatan tentera asing",
+        "Mengurus perlesenan pasar sahaja",
+        "Membahaskan dan meluluskan rang undang-undang"
+      ],
+      "a": 3,
+      "explain": "Dewan Rakyat menjalankan fungsi perundangan dan perwakilan."
+    },
+    {
+      "chapter": 13,
+      "difficulty": "S",
+      "q": "Apakah kaitan pilihan raya dengan demokrasi berparlimen?",
+      "opts": [
+        "Rakyat memilih wakil untuk membentuk perwakilan politik",
+        "Rakyat tidak boleh menyuarakan pendapat",
+        "Semua undang-undang digubal oleh badan kehakiman",
+        "Pengundi menentukan keputusan mahkamah"
+      ],
+      "a": 0,
+      "explain": "Pilihan raya menjadi asas mandat wakil rakyat."
+    },
+    {
+      "chapter": 13,
+      "difficulty": "T",
+      "q": "Mengapakah pengasingan kuasa penting dalam pemerintahan?",
+      "opts": [
+        "Menggugurkan perlembagaan",
+        "Menyediakan semak imbang dan mengurangkan penyalahgunaan kuasa",
+        "Menghapuskan semua institusi kehakiman",
+        "Memusatkan kuasa tanpa had"
+      ],
+      "a": 1,
+      "explain": "Pengasingan fungsi membantu memastikan pertanggungjawaban."
+    },
+    {
+      "chapter": 14,
+      "difficulty": "R",
+      "q": "Apakah sistem persekutuan?",
+      "opts": [
+        "Pentadbiran tanpa perlembagaan",
+        "Gabungan parti politik semata-mata",
+        "Pembahagian bidang kuasa antara kerajaan pusat dan negeri",
+        "Pemerintahan oleh satu bandar sahaja"
+      ],
+      "a": 2,
+      "explain": "Sistem persekutuan mengagihkan kuasa antara peringkat kerajaan."
+    },
+    {
+      "chapter": 14,
+      "difficulty": "R",
+      "q": "Pertahanan negara terletak dalam senarai kuasa yang mana?",
+      "opts": [
+        "Senarai Negeri",
+        "Senarai Bersama sahaja",
+        "Senarai Pihak Berkuasa Tempatan",
+        "Senarai Persekutuan"
+      ],
+      "a": 3,
+      "explain": "Pertahanan ialah bidang kuasa Persekutuan."
+    },
+    {
+      "chapter": 14,
+      "difficulty": "S",
+      "q": "Pada asasnya urusan tanah merupakan bidang kuasa yang mana?",
+      "opts": [
+        "Senarai Negeri",
+        "Senarai Persekutuan sahaja",
+        "Mahkamah Antarabangsa",
+        "Sekretariat ASEAN"
+      ],
+      "a": 0,
+      "explain": "Urusan tanah secara amnya berada dalam Senarai Negeri."
+    },
+    {
+      "chapter": 14,
+      "difficulty": "S",
+      "q": "Mengapakah Senarai Bersama diwujudkan?",
+      "opts": [
+        "Mewujudkan kerajaan asing",
+        "Membolehkan kedua-dua peringkat kerajaan menggubal undang-undang bagi bidang tertentu",
+        "Menghapuskan peranan negeri",
+        "Melarang kerjasama pentadbiran"
+      ],
+      "a": 1,
+      "explain": "Senarai Bersama melibatkan bidang kuasa kedua-dua peringkat tertakluk kepada perlembagaan."
+    },
+    {
+      "chapter": 14,
+      "difficulty": "T",
+      "q": "Apakah langkah terbaik apabila isu melibatkan bidang kuasa pusat dan negeri?",
+      "opts": [
+        "Mansuh negeri tanpa undang-undang",
+        "Menolak rundingan",
+        "Mengadakan penyelarasan dan merujuk Perlembagaan",
+        "Mengabaikan pembahagian kuasa"
+      ],
+      "a": 2,
+      "explain": "Kerjasama dan rujukan undang-undang membantu pentadbiran berkesan."
+    },
+    {
+      "chapter": 15,
+      "difficulty": "R",
+      "q": "Bilakah Malaysia dibentuk?",
+      "opts": [
+        "31 Ogos 1957",
+        "1 April 1946",
+        "8 Ogos 1967",
+        "16 September 1963"
+      ],
+      "a": 3,
+      "explain": "Malaysia dibentuk pada 16 September 1963."
+    },
+    {
+      "chapter": 15,
+      "difficulty": "R",
+      "q": "Siapakah yang mengemukakan gagasan Malaysia pada 27 Mei 1961?",
+      "opts": [
+        "Tunku Abdul Rahman",
+        "Lord Reid",
+        "Harold Briggs",
+        "Dato' Bahaman"
+      ],
+      "a": 0,
+      "explain": "Gagasan Malaysia dikemukakan Tunku Abdul Rahman."
+    },
+    {
+      "chapter": 15,
+      "difficulty": "S",
+      "q": "Apakah peranan Suruhanjaya Cobbold?",
+      "opts": [
+        "Mengurus Darurat 1948",
+        "Meninjau pandangan penduduk Sabah dan Sarawak tentang gagasan Malaysia",
+        "Menubuhkan ASEAN",
+        "Menentukan keputusan pilihan raya 1955"
+      ],
+      "a": 1,
+      "explain": "Suruhanjaya Cobbold meninjau pendapat rakyat di Borneo Utara dan Sarawak."
+    },
+    {
+      "chapter": 15,
+      "difficulty": "S",
+      "q": "Perjanjian Malaysia 1963 ditandatangani pada tarikh berapa?",
+      "opts": [
+        "16 September 1963",
+        "9 Ogos 1965",
+        "9 Julai 1963",
+        "31 Ogos 1957"
+      ],
+      "a": 2,
+      "explain": "MA63 ditandatangani pada 9 Julai 1963."
+    },
+    {
+      "chapter": 15,
+      "difficulty": "T",
+      "q": "Mengapakah rundingan dengan Sabah dan Sarawak penting bagi pembentukan Malaysia?",
+      "opts": [
+        "Membatalkan semua peranan rakyat tempatan",
+        "Mengabaikan hak wilayah",
+        "Menggantikan perlembagaan dengan arahan luar",
+        "Memahami pandangan dan kepentingan wilayah yang terlibat"
+      ],
+      "a": 3,
+      "explain": "Proses rundingan menjamin pandangan wilayah diambil kira."
+    },
+    {
+      "chapter": 16,
+      "difficulty": "R",
+      "q": "Bilakah Singapura berpisah daripada Malaysia?",
+      "opts": [
+        "9 Ogos 1965",
+        "16 September 1963",
+        "31 Ogos 1957",
+        "1 Februari 1948"
+      ],
+      "a": 0,
+      "explain": "Pemisahan Singapura berlaku pada 9 Ogos 1965."
+    },
+    {
+      "chapter": 16,
+      "difficulty": "R",
+      "q": "Konfrontasi Indonesia-Malaysia berakhir pada tahun berapa?",
+      "opts": [
+        "1971",
+        "1966",
+        "1948",
+        "1955"
+      ],
+      "a": 1,
+      "explain": "Konfrontasi berakhir pada 1966."
+    },
+    {
+      "chapter": 16,
+      "difficulty": "S",
+      "q": "Apakah cabaran penting selepas pembentukan Malaysia?",
+      "opts": [
+        "Pembentukan Kesultanan Melayu Melaka",
+        "Pengenalan Malayan Union 1946",
+        "Isu politik, ekonomi dan keselamatan",
+        "Pelancaran Revolusi Perancis"
+      ],
+      "a": 2,
+      "explain": "Negara baharu menghadapi cabaran menyelaraskan pelbagai kepentingan."
+    },
+    {
+      "chapter": 16,
+      "difficulty": "S",
+      "q": "Apakah kesan Peristiwa 13 Mei 1969 terhadap dasar negara?",
+      "opts": [
+        "ASEAN dibubarkan",
+        "Kemerdekaan 1957 dibatalkan",
+        "Perlembagaan 1957 dimansuhkan sepenuhnya",
+        "Usaha memperkukuh perpaduan nasional dipergiat"
+      ],
+      "a": 3,
+      "explain": "Peristiwa itu membawa usaha dasar perpaduan dan pemulihan."
+    },
+    {
+      "chapter": 16,
+      "difficulty": "T",
+      "q": "Apakah iktibar daripada cabaran awal Malaysia?",
+      "opts": [
+        "Dialog dan sikap saling memahami penting untuk kestabilan",
+        "Perbezaan harus diselesaikan dengan permusuhan",
+        "Kebajikan rakyat tidak perlu dipertimbangkan",
+        "Keselamatan tidak berkait dengan perpaduan"
+      ],
+      "a": 0,
+      "explain": "Perpaduan dan rundingan membantu menangani cabaran negara."
+    },
+    {
+      "chapter": 17,
+      "difficulty": "R",
+      "q": "Bilakah Rukun Negara diisytiharkan?",
+      "opts": [
+        "1 April 1946",
+        "31 Ogos 1970",
+        "31 Ogos 1957",
+        "16 September 1963"
+      ],
+      "a": 1,
+      "explain": "Rukun Negara diisytiharkan pada 31 Ogos 1970."
+    },
+    {
+      "chapter": 17,
+      "difficulty": "R",
+      "q": "Apakah bahasa kebangsaan Malaysia?",
+      "opts": [
+        "Bahasa Jepun",
+        "Bahasa Latin",
+        "Bahasa Melayu",
+        "Bahasa Perancis"
+      ],
+      "a": 2,
+      "explain": "Bahasa Melayu ialah bahasa kebangsaan Malaysia."
+    },
+    {
+      "chapter": 17,
+      "difficulty": "S",
+      "q": "Mengapakah Dasar Pendidikan Kebangsaan penting?",
+      "opts": [
+        "Menghapuskan semua sekolah",
+        "Membatalkan penilaian murid",
+        "Menggantikan perlembagaan",
+        "Menyokong perpaduan melalui sistem pendidikan"
+      ],
+      "a": 3,
+      "explain": "Dasar pendidikan membantu membina identiti dan perpaduan."
+    },
+    {
+      "chapter": 17,
+      "difficulty": "S",
+      "q": "Apakah peranan Rukun Negara?",
+      "opts": [
+        "Menjadi panduan nilai dan perpaduan masyarakat",
+        "Menggantikan Dewan Rakyat",
+        "Mengurus pilihan raya 1955",
+        "Menetapkan nilai cukai import"
+      ],
+      "a": 0,
+      "explain": "Rukun Negara menggariskan prinsip bersama untuk masyarakat."
+    },
+    {
+      "chapter": 17,
+      "difficulty": "T",
+      "q": "Program sekolah manakah paling serasi dengan usaha perpaduan?",
+      "opts": [
+        "Mengutamakan prasangka",
+        "Aktiviti bersama pelbagai kaum yang menghormati budaya masing-masing",
+        "Mengasingkan murid mengikut stereotaip",
+        "Melarang dialog budaya"
+      ],
+      "a": 1,
+      "explain": "Perpaduan lahir daripada interaksi, hormat dan kefahaman."
+    },
+    {
+      "chapter": 18,
+      "difficulty": "R",
+      "q": "Apakah kepanjangan DEB?",
+      "opts": [
+        "Dasar Ekuiti Bangsa",
+        "Dasar Ekonomi Berhad",
+        "Dasar Ekonomi Baru",
+        "Dasar Ekonomi Bersatu"
+      ],
+      "a": 2,
+      "explain": "DEB bermaksud Dasar Ekonomi Baru."
+    },
+    {
+      "chapter": 18,
+      "difficulty": "R",
+      "q": "DEB dilaksanakan pada tempoh manakah?",
+      "opts": [
+        "1948 hingga 1957",
+        "1957 hingga 1963",
+        "1991 hingga 2000",
+        "1971 hingga 1990"
+      ],
+      "a": 3,
+      "explain": "DEB dilaksanakan dari 1971 hingga 1990."
+    },
+    {
+      "chapter": 18,
+      "difficulty": "S",
+      "q": "Apakah dua matlamat utama DEB?",
+      "opts": [
+        "Membasmi kemiskinan dan menyusun semula masyarakat",
+        "Menghapuskan sistem sekolah dan parlimen",
+        "Menamatkan perdagangan dan pertanian",
+        "Membubarkan negeri-negeri"
+      ],
+      "a": 0,
+      "explain": "DEB memberi tumpuan kepada pembasmian kemiskinan dan penyusunan semula masyarakat."
+    },
+    {
+      "chapter": 18,
+      "difficulty": "S",
+      "q": "Apakah dasar yang menyusuli DEB pada 1991?",
+      "opts": [
+        "Sistem Ahli",
+        "Dasar Pembangunan Nasional",
+        "Malayan Union",
+        "Rancangan Briggs"
+      ],
+      "a": 1,
+      "explain": "DPN diperkenalkan mulai 1991."
+    },
+    {
+      "chapter": 18,
+      "difficulty": "T",
+      "q": "Mengapakah pembangunan ekonomi perlu mengambil kira jurang antara wilayah?",
+      "opts": [
+        "Supaya kemudahan hanya tertumpu satu tempat",
+        "Supaya rakyat tidak terlibat dalam ekonomi",
+        "Supaya peluang lebih seimbang dan perpaduan sosial diperkukuh",
+        "Supaya kemiskinan terus meningkat"
+      ],
+      "a": 2,
+      "explain": "Pembangunan inklusif meningkatkan kesejahteraan rakyat."
+    },
+    {
+      "chapter": 19,
+      "difficulty": "R",
+      "q": "Bilakah ASEAN ditubuhkan?",
+      "opts": [
+        "31 Ogos 1957",
+        "16 September 1963",
+        "1 Februari 1948",
+        "8 Ogos 1967"
+      ],
+      "a": 3,
+      "explain": "ASEAN ditubuhkan pada 8 Ogos 1967."
+    },
+    {
+      "chapter": 19,
+      "difficulty": "R",
+      "q": "Apakah organisasi dunia yang disertai Persekutuan Tanah Melayu pada 1957?",
+      "opts": [
+        "Pertubuhan Bangsa-Bangsa Bersatu",
+        "Kesatuan Eropah",
+        "Kesatuan Afrika",
+        "Liga Bangsa-Bangsa sebelum perang"
+      ],
+      "a": 0,
+      "explain": "Persekutuan Tanah Melayu menyertai PBB pada 17 September 1957."
+    },
+    {
+      "chapter": 19,
+      "difficulty": "S",
+      "q": "Apakah matlamat utama dasar luar Malaysia?",
+      "opts": [
+        "Menamatkan semua kerjasama",
+        "Melindungi kepentingan dan keselamatan negara melalui hubungan diplomatik",
+        "Mengasingkan negara daripada semua jiran",
+        "Menyerahkan kedaulatan kepada kuasa luar"
+      ],
+      "a": 1,
+      "explain": "Dasar luar berasaskan kepentingan dan kedaulatan negara."
+    },
+    {
+      "chapter": 19,
+      "difficulty": "S",
+      "q": "Apakah manfaat keanggotaan ASEAN?",
+      "opts": [
+        "Menggantikan semua perlembagaan",
+        "Menghalang semua hubungan perdagangan",
+        "Kerjasama serantau dalam keamanan, ekonomi dan pembangunan",
+        "Menghapuskan identiti negara anggota"
+      ],
+      "a": 2,
+      "explain": "ASEAN mengukuhkan hubungan serantau."
+    },
+    {
+      "chapter": 19,
+      "difficulty": "T",
+      "q": "Bagaimanakah Malaysia patut menangani konflik antarabangsa?",
+      "opts": [
+        "Mengelakkan semua rundingan",
+        "Menyebarkan maklumat palsu",
+        "Memutuskan hubungan dengan semua negara",
+        "Mengutamakan diplomasi, undang-undang dan keamanan"
+      ],
+      "a": 3,
+      "explain": "Diplomasi dan prinsip undang-undang menyokong keamanan."
+    },
+    {
+      "chapter": 20,
+      "difficulty": "R",
+      "q": "Apakah badan dunia yang mengurus misi pengaman antarabangsa?",
+      "opts": [
+        "Pertubuhan Bangsa-Bangsa Bersatu",
+        "Majlis Perbandaran",
+        "Suruhanjaya Reid",
+        "Rancangan Briggs"
+      ],
+      "a": 0,
+      "explain": "PBB mengendalikan misi pengaman antarabangsa."
+    },
+    {
+      "chapter": 20,
+      "difficulty": "R",
+      "q": "Pada tahun berapakah pasukan Malaya menyertai misi PBB di Congo?",
+      "opts": [
+        "1991",
+        "1960",
+        "1946",
+        "1955"
+      ],
+      "a": 1,
+      "explain": "Pasukan Malaya menyertai misi pengaman PBB di Congo pada 1960."
+    },
+    {
+      "chapter": 20,
+      "difficulty": "S",
+      "q": "Apakah antara sumbangan Malaysia di peringkat dunia?",
+      "opts": [
+        "Menutup semua hubungan luar",
+        "Menolak kerjasama kemanusiaan",
+        "Penyertaan dalam misi pengaman dan diplomasi",
+        "Menghapuskan semua pertubuhan antarabangsa"
+      ],
+      "a": 2,
+      "explain": "Malaysia terlibat dalam pelbagai bentuk kerjasama antarabangsa."
+    },
+    {
+      "chapter": 20,
+      "difficulty": "S",
+      "q": "Mengapakah kerjasama antarabangsa diperlukan untuk isu alam sekitar?",
+      "opts": [
+        "Semua pencemaran terhenti di sempadan politik",
+        "Undang-undang tidak relevan",
+        "Semua negara mempunyai masalah yang sama tepat",
+        "Cabaran alam sekitar sering merentas sempadan negara"
+      ],
+      "a": 3,
+      "explain": "Isu alam sekitar memerlukan tindakan bersama merentas sempadan."
+    },
+    {
+      "chapter": 20,
+      "difficulty": "T",
+      "q": "Apakah pendekatan paling sesuai untuk meningkatkan imej Malaysia di persada dunia?",
+      "opts": [
+        "Menyumbang secara konsisten melalui ilmu, diplomasi dan usaha kemanusiaan",
+        "Mengabaikan perjanjian antarabangsa",
+        "Menolak semua penyelidikan",
+        "Mengehadkan semua kerjasama"
+      ],
+      "a": 0,
+      "explain": "Penglibatan berprinsip memperkukuh reputasi negara."
+    }
+  ],
+  "structures": [
+    {
+      "chapter": 1,
+      "parts": [
+        {
+          "q": "Nyatakan dua ciri negara bangsa Kesultanan Melayu Melaka.",
+          "guide": "Raja; rakyat; wilayah pengaruh; undang-undang; kedaulatan; lambang kebesaran.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua peranan Pembesar Empat Lipatan.",
+          "guide": "Bendahara penasihat/pentadbir; Penghulu Bendahari urus kewangan; Temenggung jaga keamanan; Laksamana mengetuai angkatan laut.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah sistem undang-undang penting kepada negara?",
+          "guide": "Menjamin keamanan; menyelaraskan pentadbiran; melindungi hak; mewujudkan keyakinan; huraian berkaitan.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "parts": [
+        {
+          "q": "Apakah dua maksud yang berkait dengan nasionalisme?",
+          "guide": "Cinta negara; identiti bangsa; kesedaran hak; kedaulatan.",
+          "marks": 2
+        },
+        {
+          "q": "Terangkan dua faktor kebangkitan nasionalisme di negara kita.",
+          "guide": "Pendidikan; media cetak; golongan intelektual; pengaruh luar; persatuan.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah pelajar boleh menunjukkan semangat nasionalisme?",
+          "guide": "Menghargai sejarah; memelihara perpaduan; menyemak fakta; menghormati institusi; contoh sesuai.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "parts": [
+        {
+          "q": "Nyatakan dua sebab Jepun berminat ke Tanah Melayu.",
+          "guide": "Bahan mentah; kedudukan strategik; laluan perdagangan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua kesan pendudukan Jepun terhadap masyarakat tempatan.",
+          "guide": "Kekurangan barang; ekonomi terganggu; kekerasan tentera; gerakan penentangan.",
+          "marks": 4
+        },
+        {
+          "q": "Apakah iktibar daripada pengalaman perang?",
+          "guide": "Menjaga keamanan; kuatkan pertahanan; bersatu padu; mengutamakan diplomasi.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "parts": [
+        {
+          "q": "Nyatakan dua ciri pentadbiran Malayan Union yang dibantah.",
+          "guide": "Pengurangan kuasa raja; kewarganegaraan longgar; kuasa gabenor.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua cara penentangan terhadap Malayan Union.",
+          "guide": "Kongres Melayu; perhimpunan; akhbar; surat bantahan; persatuan.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah saluran rundingan sesuai untuk menyelesaikan pertikaian?",
+          "guide": "Mengurangkan konflik; mencari persetujuan; menjaga keamanan; memberi ruang suara rakyat.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "parts": [
+        {
+          "q": "Nyatakan dua ciri utama Persekutuan Tanah Melayu 1948.",
+          "guide": "Kedudukan Raja-raja Melayu; syarat kewarganegaraan; struktur persekutuan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua kepentingan pembentukan Persekutuan 1948.",
+          "guide": "Menggantikan Malayan Union; mengembalikan kedudukan raja; asas pentadbiran.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah persefahaman antara pihak berkepentingan boleh membina negara?",
+          "guide": "Mengurangkan prasangka; mengukuhkan kestabilan; memudahkan dasar; contoh konkrit.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "parts": [
+        {
+          "q": "Nyatakan dua tujuan langkah keselamatan semasa Darurat.",
+          "guide": "Melindungi rakyat; menangani keganasan; menjaga keselamatan bekalan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua tindakan kerajaan membendung ancaman komunis.",
+          "guide": "Rancangan Briggs; operasi keselamatan; perang saraf; kawalan bekalan.",
+          "marks": 4
+        },
+        {
+          "q": "Apakah tanggungjawab rakyat dalam memelihara keamanan?",
+          "guide": "Patuh undang-undang; lapor ancaman; elak hasutan; bantu komuniti.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "parts": [
+        {
+          "q": "Namakan dua usaha penting menuju kemerdekaan.",
+          "guide": "CLC; Sistem Ahli; kerjasama parti; rundingan London.",
+          "marks": 2
+        },
+        {
+          "q": "Terangkan dua sumbangan Sistem Ahli dan CLC.",
+          "guide": "Latihan pentadbiran; perbincangan antara kaum; penyelesaian isu; kerjasama politik.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah permuafakatan penting untuk keputusan besar negara?",
+          "guide": "Mewakili pelbagai komuniti; membina kepercayaan; mengelakkan konflik; berkongsi matlamat.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "parts": [
+        {
+          "q": "Nyatakan dua ciri pilihan raya 1955.",
+          "guide": "Pilihan wakil MPP; 52 kerusi dipertandingkan; Perikatan menang 51.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua kepentingan pilihan raya 1955.",
+          "guide": "Penyertaan rakyat; mandat pemimpin; persediaan berkerajaan sendiri.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah pengundi menunjukkan tanggungjawab demokratik?",
+          "guide": "Semak manifesto; ketahui isu; keluar mengundi; hormati keputusan dan undang-undang.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "parts": [
+        {
+          "q": "Nyatakan dua fungsi perlembagaan negara merdeka.",
+          "guide": "Menetapkan kerajaan; melindungi hak; mentakrif kuasa; kewarganegaraan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua peranan Suruhanjaya Reid.",
+          "guide": "Merangka perlembagaan; menerima memorandum; mempertimbang pandangan masyarakat.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah perlembagaan perlu dihormati?",
+          "guide": "Asas undang-undang; mengurangkan konflik; memelihara hak; kestabilan institusi.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "parts": [
+        {
+          "q": "Nyatakan tarikh kemerdekaan dan satu lokasi upacara pemasyhuran.",
+          "guide": "31 Ogos 1957; Stadium Merdeka Kuala Lumpur.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua langkah yang membawa kepada pemasyhuran kemerdekaan.",
+          "guide": "Rundingan London; persetujuan tarikh; penyediaan perlembagaan; upacara rasmi.",
+          "marks": 4
+        },
+        {
+          "q": "Apakah cara generasi muda memelihara makna kemerdekaan?",
+          "guide": "Perpaduan; tanggungjawab sivik; jaga keamanan; ilmu dan integriti.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "parts": [
+        {
+          "q": "Nyatakan dua ciri negara berdaulat.",
+          "guide": "Pemerintahan; rakyat; sempadan; perundangan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua langkah mengekalkan kedaulatan negara.",
+          "guide": "Pertahanan; perpaduan; diplomasi; undang-undang; kestabilan politik.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah literasi digital penting kepada keselamatan negara?",
+          "guide": "Menghindar berita palsu; menilai ancaman; melindungi keharmonian; contoh.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "parts": [
+        {
+          "q": "Nyatakan dua ciri Perlembagaan Persekutuan.",
+          "guide": "Undang-undang tertinggi; menentukan kerajaan; boleh dipinda mengikut prosedur.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua kepentingan Perlembagaan Persekutuan.",
+          "guide": "Menjelaskan kuasa; memelihara hak; kestabilan; pentadbiran teratur.",
+          "marks": 4
+        },
+        {
+          "q": "Apakah akibat jika institusi mengabaikan perlembagaan?",
+          "guide": "Pertikaian kuasa; kepercayaan menurun; ketidakstabilan; hak terjejas.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "parts": [
+        {
+          "q": "Nyatakan dua komponen Parlimen Persekutuan.",
+          "guide": "Yang di-Pertuan Agong; Dewan Rakyat; Dewan Negara.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua peranan institusi dalam demokrasi berparlimen.",
+          "guide": "Parlimen menggubal undang-undang; badan kehakiman mentafsir undang-undang; eksekutif mentadbir.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah semak imbang kuasa diperlukan?",
+          "guide": "Mencegah salah guna kuasa; akauntabiliti; perlindungan hak; keputusan telus.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "parts": [
+        {
+          "q": "Namakan dua senarai bidang kuasa dalam sistem persekutuan.",
+          "guide": "Senarai Persekutuan; Senarai Negeri; Senarai Bersama.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua contoh bidang kuasa kerajaan.",
+          "guide": "Pertahanan di Persekutuan; tanah di Negeri; contoh Senarai Bersama.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah kerjasama pusat-negeri membantu rakyat?",
+          "guide": "Sumber dikongsi; penyampaian perkhidmatan; koordinasi dasar; penyelesaian isu.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "parts": [
+        {
+          "q": "Nyatakan dua wilayah yang menyertai pembentukan Malaysia pada 1963 selain Persekutuan Tanah Melayu.",
+          "guide": "Sabah; Sarawak; Singapura.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua langkah dalam proses pembentukan Malaysia.",
+          "guide": "Gagasan 1961; Suruhanjaya Cobbold; rundingan; MA63.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah pandangan penduduk wilayah terlibat penting?",
+          "guide": "Keabsahan persetujuan; keyakinan rakyat; jaminan kepentingan; keharmonian.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "parts": [
+        {
+          "q": "Nyatakan dua cabaran yang dihadapi Malaysia selepas 1963.",
+          "guide": "Konfrontasi; pemisahan Singapura; isu ekonomi; hubungan kaum.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua kesan cabaran tersebut kepada negara.",
+          "guide": "Keselamatan; politik; ekonomi; keperluan perpaduan; pembaharuan dasar.",
+          "marks": 4
+        },
+        {
+          "q": "Apakah cara membina daya tahan masyarakat menghadapi krisis?",
+          "guide": "Dialog; maklumat sahih; kerjasama komuniti; perancangan yang adil.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "parts": [
+        {
+          "q": "Nyatakan dua matlamat usaha perpaduan negara.",
+          "guide": "Perpaduan rakyat; identiti kebangsaan; keharmonian; kestabilan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua peranan pendidikan dan Rukun Negara.",
+          "guide": "Pendidikan menyatukan; bahasa kebangsaan; nilai bersama; amalan prinsip.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah aktiviti sekolah boleh menyokong integrasi nasional?",
+          "guide": "Program bersama; hormat budaya; kerja berpasukan; komunikasi positif.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "parts": [
+        {
+          "q": "Nyatakan dua matlamat utama Dasar Ekonomi Baru.",
+          "guide": "Membasmi kemiskinan; menyusun semula masyarakat.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua pendekatan pembangunan dalam DEB atau DPN.",
+          "guide": "Peluang ekonomi; pembangunan wilayah; perindustrian; pembangunan sumber manusia.",
+          "marks": 4
+        },
+        {
+          "q": "Mengapakah pembangunan saksama penting?",
+          "guide": "Mengurangkan jurang; menambah peluang; mengukuhkan perpaduan; contoh.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "parts": [
+        {
+          "q": "Nyatakan dua pertubuhan antarabangsa yang dianggotai Malaysia.",
+          "guide": "PBB; ASEAN; Komanwel; NAM; OIC.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua kepentingan dasar luar negara.",
+          "guide": "Keselamatan; perdagangan; diplomasi; kerjasama rantau; imej negara.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah hubungan luar berprinsip menyokong keamanan?",
+          "guide": "Dialog; diplomasi; hormat kedaulatan; penyelesaian aman.",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "parts": [
+        {
+          "q": "Nyatakan dua sumbangan Malaysia di persada dunia.",
+          "guide": "Misi pengaman PBB; diplomasi; bantuan kemanusiaan; kerjasama pembangunan.",
+          "marks": 2
+        },
+        {
+          "q": "Jelaskan dua sebab kerjasama antarabangsa penting.",
+          "guide": "Menangani konflik; iklim; perdagangan; isu kemanusiaan.",
+          "marks": 4
+        },
+        {
+          "q": "Bagaimanakah generasi muda boleh menyumbang pada peringkat global?",
+          "guide": "Kepakaran; inovasi; kesukarelawanan; diplomasi rakyat; integriti.",
+          "marks": 4
+        }
+      ]
+    }
+  ],
+  "essays": [
+    {
+      "chapter": 1,
+      "parts": [
+        {
+          "q": "Huraikan konsep negara bangsa Kesultanan Melayu Melaka.",
+          "guide": "Raja; rakyat; wilayah pengaruh; undang-undang.",
+          "marks": 4
+        },
+        {
+          "q": "Bincangkan peranan sistem pentadbiran dan undang-undang dalam kegemilangan Melaka.",
+          "guide": "Sistem Pembesar Empat Lipatan; tugas pembesar; Hukum Kanun; Undang-Undang Laut; perdagangan dan kestabilan.",
+          "marks": 8
+        },
+        {
+          "q": "Cadangkan bagaimana warisan pentadbiran yang baik dapat diamalkan pada hari ini.",
+          "guide": "Ketelusan; tadbir urus; undang-undang adil; contoh pentadbiran; kesan terhadap negara.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "parts": [
+        {
+          "q": "Jelaskan maksud nasionalisme dan berikan contoh perkembangannya.",
+          "guide": "Identiti; cinta negara; gerakan memperjuang hak; contoh revolusi.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan faktor perkembangan nasionalisme di Tanah Melayu.",
+          "guide": "Pendidikan; akhbar; agama; tokoh; persatuan; pengaruh luar.",
+          "marks": 8
+        },
+        {
+          "q": "Nilai peranan media digital terhadap semangat kebangsaan masa kini.",
+          "guide": "Maklumat benar; literasi media; peluang bersuara; risiko hasutan; tindakan bertanggungjawab.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "parts": [
+        {
+          "q": "Nyatakan sebab kuasa Jepun berminat terhadap Asia Tenggara.",
+          "guide": "Sumber; kedudukan; strategi perang.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan kesan pendudukan Jepun kepada politik dan sosioekonomi masyarakat tempatan.",
+          "guide": "Kekurangan makanan; inflasi; kekerasan; penentangan; kesedaran politik.",
+          "marks": 8
+        },
+        {
+          "q": "Apakah langkah generasi kini mengelakkan peperangan dan penjajahan baharu?",
+          "guide": "Diplomasi; ilmu; ketahanan negara; perpaduan; ekonomi dan keselamatan.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "parts": [
+        {
+          "q": "Huraikan sebab penubuhan BMA selepas perang.",
+          "guide": "Memulihkan keamanan; pentadbiran; infrastruktur; keyakinan rakyat.",
+          "marks": 4
+        },
+        {
+          "q": "Bincangkan sebab dan bentuk penentangan terhadap Malayan Union.",
+          "guide": "Kuasa raja; kewarganegaraan; kongres; persatuan; akhbar.",
+          "marks": 8
+        },
+        {
+          "q": "Apakah pengajaran tentang penyertaan rakyat dalam perubahan dasar awam?",
+          "guide": "Rundingan; saluran sah; mendengar pandangan; kesatuan; keadilan.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "parts": [
+        {
+          "q": "Nyatakan tujuan penubuhan Persekutuan Tanah Melayu 1948.",
+          "guide": "Menggantikan Malayan Union; menangani bantahan; perundingan.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan ciri Perjanjian Persekutuan 1948.",
+          "guide": "Raja; kewarganegaraan; struktur negeri-persekutuan; pentadbiran.",
+          "marks": 8
+        },
+        {
+          "q": "Bagaimanakah proses tawar-menawar politik memberi manfaat kepada negara majmuk?",
+          "guide": "Perwakilan; kompromi; hormat hak; kestabilan; kesan.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "parts": [
+        {
+          "q": "Huraikan latar belakang Darurat 1948.",
+          "guide": "Ancaman komunis; keselamatan; pengisytiharan.",
+          "marks": 4
+        },
+        {
+          "q": "Bincangkan langkah kerajaan menangani ancaman komunis.",
+          "guide": "Operasi keselamatan; Rancangan Briggs; perang saraf; kerjasama rakyat.",
+          "marks": 8
+        },
+        {
+          "q": "Nilai keseimbangan keselamatan dan kebajikan awam dalam situasi krisis.",
+          "guide": "Perlindungan rakyat; undang-undang; bekalan; komunikasi; pemulihan.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "parts": [
+        {
+          "q": "Jelaskan peranan CLC dalam proses kemerdekaan.",
+          "guide": "Perbincangan; keharmonian; persefahaman.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan usaha berperingkat ke arah berkerajaan sendiri.",
+          "guide": "Sistem Ahli; kerjasama parti; pilihan raya; rundingan London.",
+          "marks": 8
+        },
+        {
+          "q": "Mengapakah kejayaan negara memerlukan persetujuan pelbagai pihak?",
+          "guide": "Kepercayaan; kestabilan; kebersamaan; contoh.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "parts": [
+        {
+          "q": "Terangkan perkembangan pilihan raya sebelum merdeka.",
+          "guide": "1951 George Town; 1952 Kuala Lumpur; 1955 MPP.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan kepentingan pilihan raya 1955 kepada kemerdekaan.",
+          "guide": "Penyertaan rakyat; mandat; Perikatan; pentadbiran sendiri.",
+          "marks": 8
+        },
+        {
+          "q": "Bagaimanakah pengundi boleh menjadikan demokrasi lebih berkualiti?",
+          "guide": "Mengundi bermaklumat; integriti; hormat pandangan; menolak fitnah.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "parts": [
+        {
+          "q": "Nyatakan peranan Suruhanjaya Reid.",
+          "guide": "Merangka perlembagaan; mempertimbang memorandum.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan ciri dan kepentingan Perlembagaan 1957.",
+          "guide": "Kerajaan; hak; kewarganegaraan; peranan raja; kestabilan.",
+          "marks": 8
+        },
+        {
+          "q": "Mengapakah pindaan perlembagaan perlu dilaksanakan secara berhati-hati?",
+          "guide": "Keseimbangan hak; ketelusan; rundingan; konsistensi undang-undang.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "parts": [
+        {
+          "q": "Huraikan peristiwa utama menjelang 31 Ogos 1957.",
+          "guide": "Rundingan; pengumuman tarikh; acara ambang merdeka.",
+          "marks": 4
+        },
+        {
+          "q": "Bincangkan kepentingan pemasyhuran kemerdekaan.",
+          "guide": "Kedaulatan; pemerintahan sendiri; identiti; simbol negara.",
+          "marks": 8
+        },
+        {
+          "q": "Cadangkan cara bermakna generasi baharu menghayati kemerdekaan.",
+          "guide": "Ilmu; perpaduan; sukarelawan; tanggungjawab sivik; contoh.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "parts": [
+        {
+          "q": "Jelaskan dua ciri negara berdaulat.",
+          "guide": "Rakyat; sempadan; pemerintahan; undang-undang.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan kepentingan kedaulatan dalam hubungan antarabangsa.",
+          "guide": "Hak menentukan dasar; pengiktirafan; keselamatan; ekonomi.",
+          "marks": 8
+        },
+        {
+          "q": "Nilai ancaman moden kepada kedaulatan dan langkah menanganinya.",
+          "guide": "Keselamatan siber; maklumat palsu; perpaduan; pertahanan; diplomasi.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "parts": [
+        {
+          "q": "Nyatakan maksud keluhuran perlembagaan.",
+          "guide": "Perlembagaan sebagai undang-undang tertinggi.",
+          "marks": 4
+        },
+        {
+          "q": "Bincangkan fungsi Perlembagaan Persekutuan dalam pemerintahan.",
+          "guide": "Pembahagian kuasa; hak; institusi raja; perundangan; kestabilan.",
+          "marks": 8
+        },
+        {
+          "q": "Bagaimanakah rakyat dapat menyokong budaya patuh perlembagaan?",
+          "guide": "Faham hak dan tanggungjawab; hormat proses; semak fakta; undang-undang.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "parts": [
+        {
+          "q": "Jelaskan maksud Raja Berperlembagaan.",
+          "guide": "Raja bertindak menurut peruntukan perlembagaan.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan fungsi Parlimen dan institusi utama demokrasi negara.",
+          "guide": "YDPA; Dewan Negara; Dewan Rakyat; eksekutif; kehakiman.",
+          "marks": 8
+        },
+        {
+          "q": "Mengapakah amalan semak imbang menyokong kepercayaan rakyat?",
+          "guide": "Akauntabiliti; ketelusan; mengelak salah guna kuasa; perlindungan hak.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "parts": [
+        {
+          "q": "Nyatakan bidang kuasa utama Kerajaan Persekutuan dan Negeri.",
+          "guide": "Pertahanan/Persekutuan; tanah/Negeri.",
+          "marks": 4
+        },
+        {
+          "q": "Bincangkan cara bidang kuasa diselaraskan dalam sistem persekutuan.",
+          "guide": "Tiga senarai; perlembagaan; kerjasama; penyelarasan.",
+          "marks": 8
+        },
+        {
+          "q": "Nilai kepentingan koordinasi kerajaan semasa bencana besar.",
+          "guide": "Arahan jelas; sumber; bantuan cepat; perlindungan masyarakat.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "parts": [
+        {
+          "q": "Jelaskan matlamat dan latar gagasan Malaysia 1961.",
+          "guide": "Keselamatan; kerjasama wilayah; kemerdekaan dan pembangunan.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan proses pembentukan Malaysia sehingga 16 September 1963.",
+          "guide": "Cobbold; JAK; rundingan; MA63; pemasyhuran.",
+          "marks": 8
+        },
+        {
+          "q": "Mengapakah persetujuan dan kepentingan negeri perlu dihormati dalam persekutuan?",
+          "guide": "Kepercayaan; hak wilayah; kestabilan; pembangunan seimbang.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "parts": [
+        {
+          "q": "Nyatakan dua cabaran selepas pembentukan Malaysia.",
+          "guide": "Konfrontasi; pemisahan Singapura; isu ekonomi; perpaduan.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan langkah negara menghadapi cabaran selepas 1963.",
+          "guide": "Diplomasi; pengukuhan keselamatan; dasar ekonomi; perpaduan.",
+          "marks": 8
+        },
+        {
+          "q": "Bagaimanakah masyarakat boleh mengurangkan ketegangan apabila timbul konflik?",
+          "guide": "Dialog; empati; berita sahih; peraturan dan kerjasama.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "parts": [
+        {
+          "q": "Jelaskan tujuan Rukun Negara.",
+          "guide": "Perpaduan; amalan nilai; kesetiaan.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan usaha membina kesejahteraan negara melalui pendidikan dan kebudayaan.",
+          "guide": "Dasar Pendidikan; bahasa kebangsaan; Rukun Negara; kebudayaan.",
+          "marks": 8
+        },
+        {
+          "q": "Apakah program sekolah yang dapat meningkatkan integrasi nasional?",
+          "guide": "Aktiviti pelbagai etnik; bahasa; sukarelawan; kerjasama komuniti.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "parts": [
+        {
+          "q": "Nyatakan dua matlamat Dasar Ekonomi Baru.",
+          "guide": "Pembasmian kemiskinan; penyusunan semula masyarakat.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan pelaksanaan dan kesinambungan dasar pembangunan ekonomi.",
+          "guide": "DEB; DPN; pembangunan luar bandar; pendidikan; perindustrian.",
+          "marks": 8
+        },
+        {
+          "q": "Cadangkan kaedah membina pembangunan ekonomi lebih saksama pada masa kini.",
+          "guide": "Kemahiran; akses digital; peluang pekerjaan; pembangunan wilayah; keberkesanan.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "parts": [
+        {
+          "q": "Jelaskan dua tujuan dasar luar Malaysia.",
+          "guide": "Keselamatan; kedaulatan; perdagangan; kerjasama.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan penglibatan Malaysia dalam organisasi serantau dan dunia.",
+          "guide": "PBB; ASEAN; Komanwel; NAM; OIC; diplomasi.",
+          "marks": 8
+        },
+        {
+          "q": "Mengapakah negara kecil dan besar perlu bekerjasama menangani isu global?",
+          "guide": "Perubahan iklim; kesihatan; keselamatan; perdagangan; amanah antarabangsa.",
+          "marks": 8
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "parts": [
+        {
+          "q": "Nyatakan contoh sumbangan Malaysia kepada keamanan dunia.",
+          "guide": "Misi pengaman PBB; diplomasi; bantuan kemanusiaan.",
+          "marks": 4
+        },
+        {
+          "q": "Huraikan manfaat penglibatan antarabangsa kepada pembangunan Malaysia.",
+          "guide": "Ilmu; imej negara; perdagangan; jaringan kerjasama.",
+          "marks": 8
+        },
+        {
+          "q": "Usulkan projek global yang sesuai dipimpin pelajar Malaysia.",
+          "guide": "Inovasi iklim; pendidikan; bantuan kemanusiaan; sasaran jelas; impak.",
+          "marks": 8
+        }
+      ]
+    }
+  ],
+  "enrichment": [
+    {
+      "main": "Negara bangsa telah terbentuk sebelum kedatangan Barat.",
+      "pillars": [
+        {
+          "title": "Raja",
+          "detail": "pemerintah tertinggi"
+        },
+        {
+          "title": "Rakyat",
+          "detail": "penduduk yang setia"
+        },
+        {
+          "title": "Undang-undang",
+          "detail": "kawal masyarakat"
+        },
+        {
+          "title": "Wilayah pengaruh",
+          "detail": "kawasan kekuasaan"
+        }
+      ],
+      "sequence": [
+        "Raja",
+        "Pembesar",
+        "Rakyat",
+        "Kestabilan"
+      ],
+      "trap": "Jangan samakan ciri negara bangsa Kesultanan Melayu Melaka dengan semua ciri negara moden.",
+      "summary": "Kesultanan Melayu Melaka menunjukkan pemerintahan tersusun melalui raja, pembesar, undang-undang dan rakyat.",
+      "answers": [
+        "Antara ciri negara bangsa Kesultanan Melayu Melaka ialah raja dan undang-undang. Ciri lain termasuk rakyat, wilayah pengaruh, kedaulatan dan lambang kebesaran.",
+        "Bendahara menjadi penasihat sultan serta mengetuai pentadbiran. Temenggung menjaga keamanan dan keselamatan dalam negeri. Penghulu Bendahari pula mengurus kewangan manakala Laksamana menjaga keselamatan perairan.",
+        "Undang-undang dapat mengekalkan keamanan kerana tindakan terhadap kesalahan dibuat secara teratur. Selain itu, undang-undang melindungi urusan perdagangan kerana pedagang mengetahui peraturan dan hak masing-masing.",
+        "Negara bangsa Melaka mempunyai raja sebagai pemerintah tertinggi, rakyat yang menunjukkan taat setia, wilayah pengaruh yang diperintah serta undang-undang yang mengawal masyarakat. Kedaulatan dan lambang kebesaran pula mengukuhkan kedudukan pemerintah.",
+        "Sistem Pembesar Empat Lipatan membahagikan tugas dengan jelas. Bendahara membantu urusan pemerintahan, Penghulu Bendahari mengurus kewangan, Temenggung menjaga keselamatan, manakala Laksamana mengawal perairan. Hukum Kanun Melaka mengatur kehidupan dan pentadbiran. Undang-Undang Laut Melaka mengawal pelayaran dan perdagangan lalu meningkatkan keyakinan pedagang.",
+        "Amalan tadbir urus yang baik memerlukan pemimpin berintegriti supaya keputusan dibuat secara telus. Undang-undang perlu dikuatkuasakan secara adil agar rakyat dilindungi. Sebagai contoh, urusan kerajaan boleh dipantau melalui audit dan saluran aduan. Kesannya, keyakinan masyarakat dan kestabilan negara meningkat."
+      ]
+    },
+    {
+      "main": "Nasionalisme berkembang daripada kesedaran kepada tindakan.",
+      "pillars": [
+        {
+          "title": "Maksud",
+          "detail": "cinta bangsa dan negara"
+        },
+        {
+          "title": "Pencetus",
+          "detail": "pendidikan dan media"
+        },
+        {
+          "title": "Penggerak",
+          "detail": "tokoh serta pertubuhan"
+        },
+        {
+          "title": "Matlamat",
+          "detail": "maruah dan kebebasan"
+        }
+      ],
+      "sequence": [
+        "Kesedaran",
+        "Penulisan",
+        "Persatuan",
+        "Tindakan"
+      ],
+      "trap": "Nasionalisme bukan sekadar semangat kebencian terhadap orang luar.",
+      "summary": "Semangat cinta akan negara mendorong masyarakat mempertahankan hak dan menuntut perubahan.",
+      "answers": [
+        "Nasionalisme ialah perasaan cinta akan bangsa dan negara serta kesedaran mempertahankan maruah, hak dan kedaulatan tanah air.",
+        "Pendidikan melahirkan golongan berilmu yang mengkritik penjajahan. Akhbar dan majalah pula menyebarkan idea pembaharuan sehingga masyarakat lebih sedar tentang kepentingan bangsa dan negara.",
+        "Pelajar boleh memupuk nasionalisme dengan menghormati simbol negara serta memahami sejarah perjuangan kemerdekaan. Mereka juga boleh memelihara perpaduan melalui kegiatan bersama rakan yang berbeza latar belakang.",
+        "Nasionalisme ialah semangat cinta akan bangsa dan negara yang mendorong usaha mempertahankan hak serta kebebasan. Idea ini berkembang melalui perubahan pemikiran di Barat, Asia dan Asia Tenggara, kemudian mempengaruhi gerakan kebangsaan di negara kita.",
+        "Perkembangan nasionalisme dipengaruhi oleh pendidikan yang meningkatkan kesedaran politik dan penulisan yang menyebarkan idea pembaharuan. Kemunculan golongan intelektual menggerakkan persatuan. Pengaruh gerakan luar negara turut memberi inspirasi kepada penduduk tempatan untuk memperjuangkan maruah dan hak bangsa.",
+        "Media digital boleh menyebarkan pengetahuan sejarah melalui sumber yang sahih dan membantu pelajar mengenali tokoh. Namun, maklumat palsu juga boleh memecahbelahkan masyarakat. Oleh itu, pengguna perlu menyemak kesahihan maklumat dan menghormati pandangan berbeza. Sikap ini membolehkan semangat kebangsaan berkembang secara matang."
+      ]
+    },
+    {
+      "main": "Peperangan dunia mengubah pentadbiran dan masyarakat negara kita.",
+      "pillars": [
+        {
+          "title": "1914",
+          "detail": "Perang Dunia Pertama"
+        },
+        {
+          "title": "1939",
+          "detail": "Perang Dunia Kedua"
+        },
+        {
+          "title": "1941–1945",
+          "detail": "Kempen dan pendudukan Jepun"
+        },
+        {
+          "title": "1945",
+          "detail": "kekalahan Jepun"
+        }
+      ],
+      "sequence": [
+        "Persaingan kuasa",
+        "Peperangan",
+        "Pendudukan",
+        "Kesan"
+      ],
+      "trap": "Bezakan tahun bermulanya Perang Dunia Kedua (1939) dengan pendaratan Jepun di Tanah Melayu (1941).",
+      "summary": "Pendudukan Jepun membawa kesukaran hidup dan turut mengubah kesedaran politik tempatan.",
+      "answers": [
+        "Jepun berminat terhadap Tanah Melayu kerana mempunyai sumber bahan mentah seperti getah dan bijih timah serta kedudukan strategik untuk operasi ketenteraan.",
+        "Pendudukan Jepun menyebabkan kekurangan makanan dan kemerosotan ekonomi sehingga rakyat mengalami kesusahan. Pada masa yang sama, pengalaman tersebut meningkatkan kesedaran sesetengah penduduk tentang perlunya pentadbiran sendiri.",
+        "Kita perlu menyelesaikan pertikaian secara diplomasi supaya pertumpahan darah dapat dielakkan. Kita juga mesti menghargai keamanan dan menolak keganasan agar masyarakat dapat hidup sejahtera.",
+        "Jepun mahu menguasai sumber ekonomi seperti getah dan bijih timah. Kedudukan Tanah Melayu juga penting untuk strategi ketenteraan Jepun di Asia Tenggara. Dasar peluasan kuasa mendorong serangan ke atas wilayah jajahan Barat.",
+        "Pendudukan Jepun menjejaskan ekonomi kerana perdagangan terganggu dan barang keperluan sukar diperoleh. Rakyat mengalami catuan makanan dan tekanan hidup. Pentadbiran Jepun juga membawa perubahan politik serta meningkatkan kesedaran anti-penjajahan dalam kalangan sebahagian penduduk. Pengalaman perang menunjukkan kepentingan keselamatan dan perpaduan.",
+        "Negara perlu mengukuhkan hubungan diplomatik supaya pertikaian diselesaikan melalui rundingan. Pendidikan keamanan boleh melahirkan rakyat yang menolak keganasan. Kerjasama serantau pula membantu menangani ancaman keselamatan. Kesannya, kedaulatan dan keselamatan awam lebih terpelihara."
+      ]
+    },
+    {
+      "main": "Penentangan rakyat mencabar rancangan Malayan Union.",
+      "pillars": [
+        {
+          "title": "1945",
+          "detail": "Pentadbiran Tentera British"
+        },
+        {
+          "title": "1946",
+          "detail": "Malayan Union diperkenal"
+        },
+        {
+          "title": "1946",
+          "detail": "Bantahan Melayu dan UMNO"
+        },
+        {
+          "title": "1948",
+          "detail": "Persekutuan Tanah Melayu"
+        }
+      ],
+      "sequence": [
+        "Dasar British",
+        "Bantahan",
+        "Rundingan",
+        "Persekutuan"
+      ],
+      "trap": "Malayan Union bukan sama dengan Persekutuan Tanah Melayu 1948.",
+      "summary": "Gerakan bantahan secara terancang dan rundingan membawa perubahan struktur pentadbiran.",
+      "answers": [
+        "Antara perkara yang dibantah ialah pengurangan kuasa Raja-raja Melayu dan syarat kewarganegaraan yang dianggap terlalu longgar oleh penentang Malayan Union.",
+        "Orang Melayu mengadakan perhimpunan dan demonstrasi untuk menyatakan bantahan. Mereka turut menggunakan akhbar dan pertubuhan seperti UMNO bagi menggerakkan sokongan secara tersusun.",
+        "Rundingan membolehkan semua pihak menyuarakan pandangan tanpa keganasan. Kaedah ini membantu mencari persetujuan yang adil dan mengelakkan ketegangan berpanjangan.",
+        "Pentadbiran Tentera British diwujudkan selepas Jepun menyerah kalah untuk memulihkan ketenteraman. Pentadbiran ini juga bertujuan memulihkan kemudahan asas, ekonomi serta sistem pentadbiran yang terganggu semasa perang.",
+        "Penentangan berlaku kerana Malayan Union menjejaskan kedudukan Raja-raja Melayu serta menimbulkan kebimbangan terhadap dasar kewarganegaraan. Bantahan dibuat melalui akhbar, perhimpunan dan kongres Melayu. UMNO menjadi saluran penting menyatukan bantahan. Tekanan politik ini mendorong rundingan menuju pembentukan Persekutuan Tanah Melayu 1948.",
+        "Rakyat perlu mendapat ruang menyuarakan pandangan sebelum dasar besar dilaksanakan. Sebagai contoh, sesi libat urus boleh diadakan dengan penduduk yang terkesan. Pandangan berbeza hendaklah dinilai secara terbuka supaya keputusan lebih adil. Kesannya, kepercayaan awam dan kestabilan pentadbiran dapat diperkukuh."
+      ]
+    },
+    {
+      "main": "Perjanjian 1948 menjadi titik perubahan pentadbiran Tanah Melayu.",
+      "pillars": [
+        {
+          "title": "Perjanjian",
+          "detail": "1 Februari 1948"
+        },
+        {
+          "title": "Raja-raja Melayu",
+          "detail": "kedudukan dipulih"
+        },
+        {
+          "title": "Negeri",
+          "detail": "sistem persekutuan diwujud"
+        },
+        {
+          "title": "Kerjasama",
+          "detail": "asas perpaduan politik"
+        }
+      ],
+      "sequence": [
+        "Bantahan",
+        "Cadangan",
+        "Perjanjian",
+        "Persekutuan"
+      ],
+      "trap": "Pembentukan Persekutuan 1948 bukan pengisytiharan kemerdekaan 1957.",
+      "summary": "Persekutuan 1948 dibentuk hasil rundingan, khususnya berkaitan pentadbiran, raja dan kewarganegaraan.",
+      "answers": [
+        "Persekutuan Tanah Melayu 1948 bertujuan menggantikan Malayan Union dan membentuk struktur pentadbiran yang mendapat sokongan lebih luas.",
+        "Perjanjian 1948 mewujudkan struktur persekutuan dan mengembalikan kedudukan Raja-raja Melayu dalam kerangka pentadbiran. Peruntukan kewarganegaraan turut ditetapkan mengikut syarat tertentu.",
+        "Persefahaman dapat mengurangkan pertikaian kerana pihak berkepentingan berbincang secara terbuka. Persetujuan bersama juga memudahkan dasar dilaksanakan demi kestabilan negara.",
+        "Persekutuan Tanah Melayu 1948 ditubuhkan bagi menggantikan Malayan Union serta mengembalikan kedudukan Raja-raja Melayu. Ia juga bertujuan membentuk sistem pentadbiran persekutuan yang lebih diterima oleh masyarakat.",
+        "Perjanjian 1948 mewujudkan gabungan negeri di bawah satu pentadbiran persekutuan. Kedudukan Raja-raja Melayu dipelihara dan bidang kuasa pentadbiran dijelaskan. Syarat kewarganegaraan diperuntukkan. Pembentukan ini membuka ruang kerjasama politik dan menjadi asas perkembangan ke arah berkerajaan sendiri.",
+        "Rundingan membolehkan keperluan pelbagai pihak dikenal pasti sebelum keputusan dibuat. Perbezaan pandangan diselesaikan secara aman supaya tiada pihak dipinggirkan. Contohnya, cadangan dasar awam boleh dibincangkan melalui jawatankuasa pelbagai kaum. Kaedah ini mengukuhkan perpaduan serta keyakinan terhadap kerajaan."
+      ]
+    },
+    {
+      "main": "Darurat memperlihatkan cabaran keselamatan dan respons kerajaan.",
+      "pillars": [
+        {
+          "title": "1948",
+          "detail": "Darurat diumum"
+        },
+        {
+          "title": "Komunis",
+          "detail": "ancaman keselamatan"
+        },
+        {
+          "title": "Rancangan Briggs",
+          "detail": "penempatan semula"
+        },
+        {
+          "title": "1960",
+          "detail": "Darurat pertama tamat"
+        }
+      ],
+      "sequence": [
+        "Ancaman",
+        "Darurat",
+        "Operasi keselamatan",
+        "Pemulihan"
+      ],
+      "trap": "Jangan anggap semua langkah semasa Darurat berbentuk ketenteraan sahaja.",
+      "summary": "Ancaman komunis dihadapi melalui keselamatan, pentadbiran, penerangan dan kebajikan.",
+      "answers": [
+        "Langkah keselamatan semasa Darurat bertujuan melindungi penduduk dan menghalang kegiatan bersenjata komunis.",
+        "Kerajaan menjalankan operasi keselamatan untuk mengawal ancaman bersenjata. Rancangan Briggs pula memindahkan sebahagian penduduk ke kampung baharu bagi memutuskan rangkaian bekalan kepada komunis.",
+        "Rakyat perlu bekerjasama dengan pihak berkuasa melalui saluran yang sah agar ancaman dapat dikesan. Mereka juga mesti menolak hasutan keganasan demi menjaga keamanan masyarakat.",
+        "Darurat 1948 diisytiharkan akibat peningkatan keganasan komunis, termasuk serangan terhadap keselamatan dan kegiatan ekonomi. Keadaan ini memerlukan langkah keselamatan tambahan untuk melindungi penduduk serta memulihkan ketenteraman.",
+        "Kerajaan melaksanakan operasi keselamatan untuk membendung kegiatan bersenjata. Rancangan Briggs membentuk kampung baharu bagi memutuskan rangkaian sokongan. Kempen penerangan digunakan untuk mendapatkan kerjasama rakyat. Langkah pentadbiran dan kebajikan turut membantu memulihkan kehidupan masyarakat. Rundingan Baling 1955 menjadi salah satu usaha politik menangani konflik.",
+        "Keselamatan negara mesti dijaga tanpa mengabaikan keperluan asas penduduk. Operasi perlu berdasarkan undang-undang agar hak rakyat dihormati. Bantuan makanan dan tempat tinggal boleh diberikan kepada masyarakat terjejas. Pendekatan berimbang membantu memelihara kepercayaan rakyat ketika krisis."
+      ]
+    },
+    {
+      "main": "Kemerdekaan tercapai melalui rundingan dan kerjasama.",
+      "pillars": [
+        {
+          "title": "CLC",
+          "detail": "hubungan antara kaum"
+        },
+        {
+          "title": "Sistem Ahli",
+          "detail": "latihan pentadbiran"
+        },
+        {
+          "title": "Pilihan raya",
+          "detail": "mandat rakyat"
+        },
+        {
+          "title": "Rundingan London",
+          "detail": "kesepakatan"
+        }
+      ],
+      "sequence": [
+        "Kerjasama",
+        "Kepimpinan",
+        "Rundingan",
+        "Kemerdekaan"
+      ],
+      "trap": "Jangan susun semua usaha kemerdekaan sebagai satu peristiwa tunggal.",
+      "summary": "Kesepakatan pemimpin dan rakyat pelbagai kaum membina asas negara merdeka.",
+      "answers": [
+        "Antara usaha menuju kemerdekaan ialah pembentukan Jawatankuasa Hubungan Antara Kaum dan pelaksanaan Sistem Ahli.",
+        "Sistem Ahli memberi pengalaman pentadbiran kepada pemimpin tempatan. Jawatankuasa Hubungan Antara Kaum pula menggalakkan perundingan bagi menyelesaikan isu antara komuniti.",
+        "Permuafakatan membolehkan pandangan pelbagai masyarakat dipertimbangkan. Persetujuan yang dicapai bersama membantu keputusan negara diterima dan dilaksanakan secara aman.",
+        "Jawatankuasa Hubungan Antara Kaum menyediakan ruang perbincangan antara pemimpin komuniti. Isu berkaitan kewarganegaraan, pendidikan dan kepentingan masyarakat dibincangkan bagi membina persefahaman yang menyokong proses kemerdekaan.",
+        "Sistem Ahli melatih pemimpin tempatan mengurus pentadbiran. Jawatankuasa Hubungan Antara Kaum memupuk persefahaman. Pilihan raya memberikan pengalaman demokrasi dan mandat rakyat. Rundingan kemerdekaan di London mengukuhkan persetujuan tentang penyerahan kuasa. Usaha ini membentuk asas pentadbiran negara merdeka.",
+        "Persefahaman pelbagai komuniti membolehkan keperluan rakyat dipertimbangkan secara adil. Pemimpin perlu mendengar pandangan yang berbeza sebelum membuat keputusan. Kerjasama seperti ini mengurangkan prasangka dan membantu penyelesaian masalah. Hasilnya, negara lebih stabil dan pembangunan dapat diteruskan."
+      ]
+    },
+    {
+      "main": "Pilihan raya menggerakkan Tanah Melayu ke arah berkerajaan sendiri.",
+      "pillars": [
+        {
+          "title": "1951",
+          "detail": "pilihan raya tempatan"
+        },
+        {
+          "title": "1952",
+          "detail": "kerjasama politik berkembang"
+        },
+        {
+          "title": "1955",
+          "detail": "pilihan raya Majlis Perundangan Persekutuan"
+        },
+        {
+          "title": "Mandat",
+          "detail": "asas kabinet sendiri"
+        }
+      ],
+      "sequence": [
+        "Rakyat memilih",
+        "Wakil menang",
+        "Kerajaan dibentuk",
+        "Keyakinan"
+      ],
+      "trap": "Pilihan raya 1955 bukan pilihan raya umum Malaysia masa kini.",
+      "summary": "Pilihan raya 1955 membuktikan kebolehan rakyat memilih pemimpin dan mentadbir negara.",
+      "answers": [
+        "Pilihan raya Majlis Perundangan Persekutuan 1955 membolehkan rakyat memilih wakil dan menjadi langkah ke arah berkerajaan sendiri.",
+        "Pilihan raya 1955 menunjukkan rakyat mampu memilih pemimpin melalui proses demokrasi. Kejayaan ini meningkatkan keyakinan bahawa pentadbiran tempatan boleh mengambil alih tanggungjawab daripada British.",
+        "Pengundi perlu memahami dasar calon dan menyemak kesahihan maklumat sebelum mengundi. Mereka hendaklah menghormati keputusan serta proses yang sah supaya demokrasi terus berfungsi.",
+        "Pilihan raya tempatan mula berkembang pada awal 1950-an dan menunjukkan penyertaan politik rakyat. Pilihan raya Majlis Perundangan Persekutuan 1955 memperluas peluang memilih wakil serta menyediakan asas penubuhan kabinet yang dipimpin tokoh tempatan.",
+        "Pilihan raya 1955 memberikan mandat kepada pemimpin tempatan untuk membentuk pentadbiran. Keputusan tersebut membuktikan rakyat mampu mengamalkan demokrasi. Kerajaan yang terbentuk mendapat pengalaman mengurus dasar awam. Hal ini menguatkan tuntutan dan keyakinan ke arah kemerdekaan Persekutuan Tanah Melayu.",
+        "Pengundi patut menilai rekod, dasar dan integriti calon supaya pilihan berasaskan maklumat. Pendidikan sivik membantu masyarakat memahami hak dan tanggungjawab. Kempen yang berhemah pula mengurangkan fitnah dan ketegangan. Amalan ini dapat meningkatkan kepercayaan terhadap pilihan raya."
+      ]
+    },
+    {
+      "main": "Perlembagaan 1957 menyediakan asas pemerintahan merdeka.",
+      "pillars": [
+        {
+          "title": "1956",
+          "detail": "Suruhanjaya Reid"
+        },
+        {
+          "title": "Pandangan",
+          "detail": "memorandum pelbagai pihak"
+        },
+        {
+          "title": "Perlembagaan",
+          "detail": "aturan negara"
+        },
+        {
+          "title": "1957",
+          "detail": "asas negara merdeka"
+        }
+      ],
+      "sequence": [
+        "Rundingan",
+        "Draf",
+        "Perbahasan",
+        "Perlembagaan"
+      ],
+      "trap": "Perlembagaan 1957 bukan dokumen yang dibina oleh seorang tokoh sahaja.",
+      "summary": "Perlembagaan lahir melalui pertimbangan pelbagai kepentingan dan persetujuan politik.",
+      "answers": [
+        "Perlembagaan berfungsi menetapkan susunan pemerintahan negara dan menjelaskan hak serta tanggungjawab dalam kerangka undang-undang.",
+        "Suruhanjaya Reid ditugaskan menyediakan cadangan perlembagaan bagi negara yang akan merdeka. Suruhanjaya itu juga menerima dan meneliti memorandum serta pandangan daripada pelbagai pihak.",
+        "Perlembagaan memastikan kuasa institusi dilaksanakan mengikut peruntukan yang sah. Kepatuhan kepadanya melindungi kestabilan dan membantu menyelesaikan pertikaian secara berperaturan.",
+        "Suruhanjaya Reid dibentuk pada 1956 untuk menyediakan cadangan Perlembagaan Persekutuan Tanah Melayu. Suruhanjaya mengkaji pandangan pelbagai pihak sebelum mengemukakan syor berkaitan pemerintahan negara merdeka.",
+        "Perlembagaan 1957 menyediakan asas pemerintahan negara merdeka. Dokumen tersebut memperuntukkan institusi pemerintahan, kedudukan tertentu, kewarganegaraan dan hak yang ditetapkan oleh undang-undang. Penggubalannya melibatkan rundingan serta pertimbangan kepentingan pelbagai pihak. Oleh itu, perlembagaan membantu menjamin kestabilan negara.",
+        "Pindaan perlembagaan perlu diteliti kerana boleh memberi kesan kepada institusi dan hak yang dilindungi. Perubahan hendaklah mengikut prosedur perundangan yang sah. Pandangan pihak berkepentingan juga wajar dipertimbangkan. Kaedah ini mengekalkan keyakinan rakyat terhadap sistem negara."
+      ]
+    },
+    {
+      "main": "Kemerdekaan menandakan bermulanya pemerintahan negara sendiri.",
+      "pillars": [
+        {
+          "title": "20 Feb 1956",
+          "detail": "tarikh diumum"
+        },
+        {
+          "title": "30 Ogos 1957",
+          "detail": "ambang merdeka"
+        },
+        {
+          "title": "31 Ogos 1957",
+          "detail": "pemasyhuran"
+        },
+        {
+          "title": "Stadium Merdeka",
+          "detail": "lokasi utama"
+        }
+      ],
+      "sequence": [
+        "Perjuangan",
+        "Rundingan",
+        "Pengumuman",
+        "Merdeka"
+      ],
+      "trap": "31 Ogos 1957 ialah kemerdekaan Persekutuan Tanah Melayu; 16 September 1963 ialah pembentukan Malaysia.",
+      "summary": "Pemasyhuran kemerdekaan melambangkan kedaulatan, kebebasan pentadbiran dan perpaduan rakyat.",
+      "answers": [
+        "Kemerdekaan Persekutuan Tanah Melayu dimasyhurkan pada 31 Ogos 1957. Upacara utama pemasyhuran berlangsung di Stadium Merdeka, Kuala Lumpur.",
+        "Rundingan kemerdekaan menghasilkan persetujuan tentang penyerahan kuasa. Persediaan perlembagaan dan pentadbiran turut dibuat supaya pemerintahan merdeka dapat bermula secara teratur.",
+        "Generasi muda boleh menghayati kemerdekaan dengan memahami perjuangan tokoh serta menjaga perpaduan. Mereka juga boleh menyumbang kepada negara melalui ilmu, kerja sukarela dan kepatuhan undang-undang.",
+        "Tunku Abdul Rahman mengumumkan tarikh kemerdekaan di Melaka pada 20 Februari 1956. Pada malam 30 Ogos 1957, detik ambang merdeka diraikan. Keesokan harinya, 31 Ogos 1957, pemasyhuran kemerdekaan berlangsung di Stadium Merdeka.",
+        "Pemasyhuran kemerdekaan menandakan berakhirnya pemerintahan British dan bermulanya kedaulatan Persekutuan Tanah Melayu. Negara mempunyai ruang membuat keputusan pentadbiran sendiri. Peristiwa ini menyatukan rakyat dalam sambutan kebangsaan dan memperkukuh identiti negara. Kemerdekaan juga membuka peluang menentukan hala tuju pembangunan.",
+        "Generasi baharu boleh mengunjungi muzium dan meneliti sumber sejarah supaya tidak lupa pengorbanan terdahulu. Perpaduan boleh dipelihara melalui aktiviti merentas budaya. Penyertaan sivik secara berhemah pula menunjukkan tanggungjawab warganegara. Dengan cara ini kemerdekaan dihargai melalui tindakan, bukan slogan sahaja."
+      ]
+    },
+    {
+      "main": "Kedaulatan bermaksud kuasa tertinggi negara yang merdeka.",
+      "pillars": [
+        {
+          "title": "Pemerintahan",
+          "detail": "berkuasa sendiri"
+        },
+        {
+          "title": "Sempadan",
+          "detail": "wilayah yang diiktiraf"
+        },
+        {
+          "title": "Undang-undang",
+          "detail": "asas pentadbiran"
+        },
+        {
+          "title": "Rakyat",
+          "detail": "terikat pada negara"
+        }
+      ],
+      "sequence": [
+        "Negara berdaulat",
+        "Dasar sendiri",
+        "Keselamatan",
+        "Kesejahteraan"
+      ],
+      "trap": "Kedaulatan bukan hanya kekuatan tentera.",
+      "summary": "Kedaulatan membolehkan negara membuat keputusan tanpa campur tangan luar.",
+      "answers": [
+        "Antara ciri negara berdaulat ialah mempunyai pemerintahan sendiri dan wilayah dengan sempadan yang diiktiraf.",
+        "Kedaulatan dapat dipertahankan dengan mengukuhkan keselamatan dan menguatkuasakan undang-undang. Hubungan diplomatik yang baik pula membantu mengelakkan ancaman dari luar.",
+        "Literasi digital penting kerana maklumat palsu boleh menggugat ketenteraman dan kepercayaan awam. Rakyat yang menyemak sumber sebelum berkongsi berita membantu memelihara keselamatan masyarakat.",
+        "Negara berdaulat mempunyai pemerintahan yang berkuasa membuat keputusan sendiri. Negara juga mempunyai rakyat, wilayah, undang-undang dan hubungan luar yang dilaksanakan tanpa campur tangan tidak sah.",
+        "Kedaulatan membolehkan negara menetapkan dasar sendiri serta mempertahankan kepentingannya dalam hubungan antarabangsa. Negara dapat menyertai pertubuhan dunia sebagai pihak yang setara. Keselamatan, ekonomi dan kebajikan rakyat dapat dirancang mengikut keperluan tempatan. Hal ini mengekalkan maruah dan kebebasan negara.",
+        "Ancaman siber, penyebaran maklumat palsu dan campur tangan luar boleh menggugat kedaulatan. Kerajaan perlu memperkukuh keselamatan digital dan diplomasi. Sekolah boleh membina celik media dalam kalangan pelajar. Langkah ini membantu rakyat mengenal pasti ancaman serta membuat keputusan yang bertanggungjawab."
+      ]
+    },
+    {
+      "main": "Perlembagaan ialah undang-undang tertinggi negara.",
+      "pillars": [
+        {
+          "title": "Supremasi perlembagaan",
+          "detail": "undang-undang tertinggi"
+        },
+        {
+          "title": "Hak dan tanggungjawab",
+          "detail": "perlindungan menurut peruntukan"
+        },
+        {
+          "title": "Institusi dan bidang kuasa",
+          "detail": "kuasa ditetapkan"
+        },
+        {
+          "title": "Pindaan melalui proses sah",
+          "detail": "ikuti tatacara perlembagaan"
+        }
+      ],
+      "sequence": [
+        "Peruntukan",
+        "Institusi",
+        "Amalan",
+        "Semak imbang"
+      ],
+      "trap": "Perlembagaan tidak sama dengan satu akta biasa.",
+      "summary": "Perlembagaan menentukan kerangka pemerintahan dan melindungi kestabilan negara.",
+      "answers": [
+        "Keluhuran perlembagaan bermaksud Perlembagaan Persekutuan diiktiraf sebagai undang-undang tertinggi yang menjadi rujukan pemerintahan.",
+        "Perlembagaan menetapkan kerangka kuasa institusi negara dan prinsip pelaksanaan pentadbiran. Perlembagaan juga memperuntukkan hak tertentu serta proses perundangan yang mesti dipatuhi.",
+        "Jika institusi mengabaikan perlembagaan, tindakan kerajaan boleh dipertikaikan dan keyakinan rakyat merosot. Keadaan ini boleh menimbulkan ketidakstabilan politik serta pertikaian undang-undang.",
+        "Keluhuran perlembagaan bermaksud semua institusi dan pihak berkuasa terikat kepada undang-undang tertinggi negara. Dasar serta tindakan hendaklah mematuhi peruntukan perlembagaan yang berkuat kuasa.",
+        "Perlembagaan menjadi asas penubuhan dan fungsi institusi pemerintahan. Ia menentukan pembahagian bidang kuasa, memandu proses perundangan dan memperuntukkan perlindungan tertentu kepada rakyat. Perlembagaan juga menyediakan kaedah menyelesaikan pertikaian secara sah. Oleh itu, kestabilan pemerintahan dapat dipelihara.",
+        "Rakyat boleh mempelajari asas perlembagaan supaya memahami hak dan tanggungjawab. Mereka perlu menggunakan saluran yang sah untuk mempertikaikan keputusan. Pendidikan sivik dan perbincangan berfakta dapat mengurangkan salah faham. Kesannya, budaya menghormati undang-undang berkembang."
+      ]
+    },
+    {
+      "main": "Institusi raja dan parlimen berfungsi dalam kerangka perlembagaan.",
+      "pillars": [
+        {
+          "title": "Yang di-Pertuan Agong",
+          "detail": "Ketua Utama Negara"
+        },
+        {
+          "title": "Parlimen",
+          "detail": "badan perundangan"
+        },
+        {
+          "title": "Dewan Rakyat",
+          "detail": "wakil dipilih"
+        },
+        {
+          "title": "Dewan Negara",
+          "detail": "anggota dilantik/dipilih"
+        }
+      ],
+      "sequence": [
+        "Rakyat",
+        "Wakil",
+        "Parlimen",
+        "Kerajaan"
+      ],
+      "trap": "Jangan anggap sistem Raja Berperlembagaan membenarkan kuasa tanpa batas perlembagaan.",
+      "summary": "Demokrasi berparlimen menyatukan penyertaan rakyat dengan keluhuran perlembagaan.",
+      "answers": [
+        "Antara komponen Parlimen Persekutuan ialah Dewan Rakyat dan Dewan Negara. Yang di-Pertuan Agong juga merupakan komponen Parlimen.",
+        "Dewan Rakyat membahaskan dan meluluskan rang undang-undang melalui wakil rakyat. Dewan Negara pula berperanan dalam proses perundangan sebagai dewan kedua.",
+        "Semak imbang penting untuk mengelakkan penyalahgunaan kuasa dan memastikan keputusan kerajaan dapat dipersoalkan secara sah. Keadaan ini meningkatkan ketelusan serta keyakinan rakyat.",
+        "Raja Berperlembagaan ialah sistem pemerintahan yang menempatkan raja sebagai institusi negara dengan fungsi tertakluk kepada perlembagaan. Yang di-Pertuan Agong menjadi Ketua Utama Negara dalam sistem Malaysia.",
+        "Parlimen menjalankan fungsi perundangan melalui Yang di-Pertuan Agong, Dewan Negara dan Dewan Rakyat. Dewan Rakyat dianggotai wakil yang dipilih dalam pilihan raya, manakala Dewan Negara mempunyai keanggotaan mengikut peruntukan perlembagaan. Perbahasan undang-undang dan pengawasan terhadap kerajaan menyokong demokrasi berparlimen.",
+        "Semak imbang membolehkan keputusan kerajaan dinilai secara terbuka dan mengurangkan risiko salah guna kuasa. Ahli Parlimen dapat membahas dasar yang memberi kesan kepada rakyat. Institusi kehakiman pula memutuskan pertikaian undang-undang mengikut bidang kuasanya. Keadaan ini meningkatkan kepercayaan terhadap pentadbiran."
+      ]
+    },
+    {
+      "main": "Sistem persekutuan membahagikan bidang kuasa.",
+      "pillars": [
+        {
+          "title": "Senarai Persekutuan",
+          "detail": "pertahanan dan hubungan luar"
+        },
+        {
+          "title": "Senarai Negeri",
+          "detail": "tanah dan hal tertentu negeri"
+        },
+        {
+          "title": "Senarai Bersama",
+          "detail": "urusan yang memerlukan kedua-dua pihak"
+        },
+        {
+          "title": "Kerjasama pusat dan negeri",
+          "detail": "penyelarasan perkhidmatan"
+        }
+      ],
+      "sequence": [
+        "Pembahagian kuasa",
+        "Penyelarasan",
+        "Perkhidmatan",
+        "Kesejahteraan"
+      ],
+      "trap": "Tidak semua bidang pentadbiran terletak di bawah Kerajaan Persekutuan.",
+      "summary": "Bidang kuasa yang jelas memudahkan perancangan dan penyampaian perkhidmatan.",
+      "answers": [
+        "Antara senarai bidang kuasa ialah Senarai Persekutuan dan Senarai Negeri. Terdapat juga Senarai Bersama.",
+        "Pertahanan dan hubungan luar merupakan contoh bidang kuasa Persekutuan. Hal ehwal tanah dan agama Islam dalam bidang yang diperuntukkan merupakan antara kuasa negeri.",
+        "Kerjasama pusat-negeri membolehkan bantuan bencana diselaras dengan cepat. Penyaluran maklumat dan peruntukan yang baik dapat mengurangkan kesusahan rakyat.",
+        "Sistem persekutuan membahagikan kuasa antara Kerajaan Persekutuan dan Negeri. Senarai Persekutuan meliputi hal seperti pertahanan dan hubungan luar. Senarai Negeri merangkumi hal tertentu seperti tanah. Senarai Bersama melibatkan bidang yang memerlukan peranan kedua-dua peringkat.",
+        "Pembahagian bidang kuasa ditetapkan oleh Perlembagaan Persekutuan. Kerajaan Persekutuan dan Negeri menjalankan tanggungjawab mengikut senarai masing-masing. Mesyuarat serta penyelarasan pentadbiran membantu mengurus isu yang merentas negeri. Kerjasama ini memastikan perkhidmatan dapat disampaikan secara tersusun.",
+        "Ketika banjir besar, Kerajaan Persekutuan boleh menyelaras sumber dan agensi nasional manakala kerajaan negeri memahami keperluan setempat. Data amaran awal dan pusat pemindahan perlu dikongsi. Komunikasi jelas dapat mempercepat bantuan. Kesannya, keselamatan penduduk lebih terjamin."
+      ]
+    },
+    {
+      "main": "Malaysia dibentuk melalui cadangan, tinjauan dan perjanjian.",
+      "pillars": [
+        {
+          "title": "1961",
+          "detail": "gagasan Malaysia"
+        },
+        {
+          "title": "1962",
+          "detail": "Suruhanjaya Cobbold"
+        },
+        {
+          "title": "1963",
+          "detail": "Perjanjian Malaysia"
+        },
+        {
+          "title": "16 Sep 1963",
+          "detail": "Malaysia terbentuk"
+        }
+      ],
+      "sequence": [
+        "Cadangan",
+        "Pandangan rakyat",
+        "Perjanjian",
+        "Malaysia"
+      ],
+      "trap": "Pada 1963 Malaysia dibentuk bersama Sabah, Sarawak dan Singapura; Singapura berpisah pada 1965.",
+      "summary": "Pembentukan Malaysia memerlukan rundingan antara wilayah dan sokongan terhadap penyatuan.",
+      "answers": [
+        "Selain Persekutuan Tanah Melayu, wilayah yang menyertai pembentukan Malaysia pada 16 September 1963 termasuk Sabah dan Sarawak. Singapura juga menyertai pembentukan pada ketika itu.",
+        "Suruhanjaya Cobbold meninjau pandangan penduduk di Sabah dan Sarawak. Perjanjian Malaysia 1963 pula menjadi dokumen penting sebelum perisytiharan pembentukan Malaysia.",
+        "Pandangan rakyat di wilayah terlibat perlu didengar agar pembentukan negara mendapat penerimaan. Rundingan juga membantu menjaga kepentingan dan keperluan setiap wilayah.",
+        "Gagasan Malaysia dikemukakan oleh Tunku Abdul Rahman pada 27 Mei 1961. Tujuannya termasuk kerjasama politik, keselamatan dan pembangunan. Cadangan tersebut dibincangkan bersama wilayah yang terlibat sehingga proses pembentukan Malaysia dilaksanakan.",
+        "Selepas cadangan pada 1961, usaha penerangan dan rundingan dijalankan. Suruhanjaya Cobbold pada 1962 meninjau pandangan penduduk Sabah dan Sarawak. Perjanjian Malaysia ditandatangani pada 9 Julai 1963. Pada 16 September 1963 Malaysia dibentuk oleh Persekutuan Tanah Melayu, Sabah, Sarawak dan Singapura.",
+        "Persetujuan wilayah penting kerana pembentukan persekutuan memberi kesan kepada kuasa pentadbiran dan masyarakat setempat. Rundingan perlu menghormati kepentingan setiap wilayah. Keperluan pembangunan yang berbeza juga mesti dinilai. Sikap ini menyokong kepercayaan dan perpaduan dalam persekutuan."
+      ]
+    },
+    {
+      "main": "Negara baharu menghadapi cabaran politik, ekonomi dan perpaduan.",
+      "pillars": [
+        {
+          "title": "Konfrontasi Indonesia",
+          "detail": "ancaman keselamatan serantau"
+        },
+        {
+          "title": "Pemisahan Singapura 1965",
+          "detail": "perubahan politik"
+        },
+        {
+          "title": "Cabaran pembangunan wilayah",
+          "detail": "jurang ekonomi"
+        },
+        {
+          "title": "Peristiwa 13 Mei 1969",
+          "detail": "kepentingan perpaduan"
+        }
+      ],
+      "sequence": [
+        "Cabaran",
+        "Dasar",
+        "Penyelesaian",
+        "Pembinaan semula"
+      ],
+      "trap": "Cabaran selepas 1963 mempunyai sebab dan tarikh berbeza; jangan campur semua.",
+      "summary": "Cabaran selepas pembentukan Malaysia menguji kemampuan negara mengekalkan kestabilan.",
+      "answers": [
+        "Antara cabaran selepas pembentukan Malaysia ialah Konfrontasi Indonesia dan pemisahan Singapura pada 1965.",
+        "Konfrontasi mengancam keselamatan serta memerlukan tindakan diplomatik. Pemisahan Singapura pula membawa perubahan politik dan ekonomi yang perlu ditangani oleh kerajaan Malaysia.",
+        "Masyarakat boleh mengelakkan ketegangan dengan menolak khabar angin dan menggunakan saluran dialog. Bantuan kepada kumpulan terjejas juga dapat mengukuhkan kepercayaan dan perpaduan.",
+        "Antara cabaran utama ialah Konfrontasi Indonesia, pemisahan Singapura pada 1965 dan ketidakseimbangan pembangunan antara wilayah. Peristiwa 13 Mei 1969 pula menonjolkan keperluan mengukuhkan perpaduan masyarakat.",
+        "Cabaran keselamatan ditangani melalui pertahanan dan diplomasi. Pemisahan Singapura memerlukan penyesuaian dasar dan hubungan baharu. Kerajaan juga berusaha mengatasi masalah ekonomi serta pembangunan yang tidak seimbang. Selepas ketegangan kaum, usaha perpaduan dan pembaharuan dasar diberi perhatian.",
+        "Apabila berlaku konflik, rakyat perlu menyemak maklumat sebelum berkongsi supaya fitnah dapat dielakkan. Pemimpin masyarakat wajar membuka ruang dialog untuk mendengar kebimbangan semua pihak. Program kerjasama setempat boleh membina saling percaya. Kesannya, ketegangan dapat dikurangkan tanpa keganasan."
+      ]
+    },
+    {
+      "main": "Perpaduan dibina melalui pendidikan, budaya dan Rukun Negara.",
+      "pillars": [
+        {
+          "title": "Pendidikan Kebangsaan",
+          "detail": "peluang belajar dan bergaul"
+        },
+        {
+          "title": "Bahasa kebangsaan",
+          "detail": "bahasa komunikasi bersama"
+        },
+        {
+          "title": "Dasar Kebudayaan Kebangsaan",
+          "detail": "asas identiti negara"
+        },
+        {
+          "title": "Rukun Negara 1970",
+          "detail": "nilai perpaduan rakyat"
+        }
+      ],
+      "sequence": [
+        "Perbezaan masyarakat",
+        "Dasar perpaduan",
+        "Penyertaan",
+        "Keharmonian"
+      ],
+      "trap": "Rukun Negara bukan hanya untuk dihafal; prinsipnya perlu diamalkan.",
+      "summary": "Pendidikan dan nilai bersama membina kefahaman dalam masyarakat majmuk.",
+      "answers": [
+        "Antara matlamat pembinaan kesejahteraan negara ialah mengukuhkan perpaduan dan membentuk identiti kebangsaan yang dikongsi bersama.",
+        "Pendidikan Kebangsaan menyediakan pengalaman pembelajaran bersama kepada murid. Rukun Negara pula menetapkan prinsip yang memupuk kesopanan, keluhuran undang-undang dan semangat bersatu.",
+        "Sekolah boleh mengadakan projek berkumpulan yang melibatkan murid daripada pelbagai latar belakang. Aktiviti tersebut membina kerjasama, empati dan rasa hormat dalam komuniti sekolah.",
+        "Rukun Negara diperkenalkan untuk mengukuhkan perpaduan serta membentuk masyarakat yang berpegang pada prinsip kenegaraan. Prinsipnya merangkumi Kepercayaan kepada Tuhan, Kesetiaan kepada Raja dan Negara, Keluhuran Perlembagaan, Kedaulatan Undang-undang serta Kesopanan dan Kesusilaan.",
+        "Pendidikan Kebangsaan menggalakkan peluang interaksi antara murid dan mengembangkan identiti bersama. Penggunaan bahasa kebangsaan menyokong komunikasi. Dasar Kebudayaan Kebangsaan pula memupuk kefahaman terhadap warisan masyarakat. Rukun Negara menjadi panduan nilai dan tingkah laku demi keharmonian.",
+        "Sekolah boleh menjalankan projek sejarah lisan bersama komuniti berbilang budaya. Murid bekerjasama mendokumentasikan pengalaman serta persembahan tradisi setempat. Program ini mengurangkan prasangka melalui interaksi langsung. Hasil kerja boleh dipamerkan secara digital supaya lebih ramai pelajar memahami kepelbagaian negara."
+      ]
+    },
+    {
+      "main": "Dasar ekonomi berusaha mengurangkan jurang pembangunan.",
+      "pillars": [
+        {
+          "title": "DEB",
+          "detail": "1971–1990"
+        },
+        {
+          "title": "Membasmi kemiskinan",
+          "detail": "tanpa mengira kaum"
+        },
+        {
+          "title": "Menyusun semula masyarakat",
+          "detail": "mengurangkan pemisahan ekonomi"
+        },
+        {
+          "title": "DPN",
+          "detail": "kesinambungan selepas 1990"
+        }
+      ],
+      "sequence": [
+        "Ketidakseimbangan",
+        "Dasar",
+        "Pelaksanaan",
+        "Kemakmuran"
+      ],
+      "trap": "DEB bukan sekadar dasar menaikkan pendapatan negara secara keseluruhan.",
+      "summary": "Pembangunan saksama membantu mengukuhkan perpaduan dan peluang ekonomi.",
+      "answers": [
+        "Dasar Ekonomi Baru mempunyai dua matlamat utama, iaitu membasmi kemiskinan tanpa mengira kaum dan menyusun semula masyarakat bagi mengurangkan pengenalan fungsi ekonomi mengikut kaum.",
+        "Peluang pekerjaan dan pendidikan diperluas untuk meningkatkan pendapatan penduduk. Pembangunan wilayah dan penyertaan ekonomi pula membantu mengurangkan ketidakseimbangan antara masyarakat.",
+        "Pembangunan saksama mengurangkan jurang peluang antara kumpulan masyarakat. Keadaan ini membantu mengelakkan rasa terpinggir serta mengukuhkan perpaduan.",
+        "Dasar Ekonomi Baru (1971–1990) bertujuan membasmi kemiskinan tanpa mengira kaum. Matlamat keduanya ialah menyusun semula masyarakat supaya identiti kaum tidak lagi dikaitkan secara ketara dengan fungsi ekonomi tertentu.",
+        "Pelaksanaan DEB melibatkan peluasan peluang pendidikan, pekerjaan dan keusahawanan. Pembangunan luar bandar dan pembukaan wilayah ekonomi membantu meningkatkan taraf hidup. Dasar Pembangunan Nasional meneruskan usaha pembangunan selepas DEB. Tujuannya ialah pertumbuhan yang disertai pengagihan peluang lebih seimbang.",
+        "Pembangunan yang adil memerlukan akses pendidikan berkualiti dan kemahiran bagi semua lapisan masyarakat. Program keusahawanan boleh memberi peluang kepada keluarga berpendapatan rendah. Pengukuran dasar perlu berdasarkan hasil sebenar supaya bantuan sampai kepada kumpulan sasaran. Dengan itu, jurang sosioekonomi dapat dikurangkan."
+      ]
+    },
+    {
+      "main": "Dasar luar menjaga kepentingan dan keselamatan negara.",
+      "pillars": [
+        {
+          "title": "PBB",
+          "detail": "hubungan antarabangsa"
+        },
+        {
+          "title": "ASEAN",
+          "detail": "kerjasama serantau"
+        },
+        {
+          "title": "NAM",
+          "detail": "berkecuali"
+        },
+        {
+          "title": "OIC",
+          "detail": "kerjasama dunia Islam"
+        }
+      ],
+      "sequence": [
+        "Kepentingan negara",
+        "Diplomasi",
+        "Kerjasama",
+        "Kesejahteraan"
+      ],
+      "trap": "Keanggotaan dalam pelbagai pertubuhan tidak bermaksud semua fungsi pertubuhan itu sama.",
+      "summary": "Diplomasi dan kerjasama antarabangsa penting bagi negara berdaulat.",
+      "answers": [
+        "Antara pertubuhan antarabangsa yang dianggotai Malaysia ialah Pertubuhan Bangsa-Bangsa Bersatu (PBB) dan ASEAN.",
+        "Dasar luar melindungi kedaulatan serta keselamatan negara melalui diplomasi. Hubungan ekonomi dengan negara lain juga membantu perdagangan dan pembangunan.",
+        "Kerjasama berprinsip membolehkan negara menyelesaikan pertikaian melalui dialog. Penyertaan dalam misi kemanusiaan dan usaha keamanan membantu mengurangkan konflik antarabangsa.",
+        "Dasar luar Malaysia bertujuan menjaga kedaulatan dan keselamatan negara. Dasar ini turut mengukuhkan hubungan diplomatik, membuka peluang perdagangan dan mempromosikan keamanan serantau.",
+        "Malaysia aktif dalam ASEAN untuk kerjasama serantau dan pengurusan isu bersama. Melalui PBB, negara menyertai perbincangan serta usaha keamanan dunia. Penyertaan dalam NAM dan OIC menyediakan saluran diplomatik untuk menyuarakan pendirian dan bekerjasama dengan negara anggota. Penglibatan ini meluaskan jaringan antarabangsa Malaysia.",
+        "Negara perlu bekerjasama kerana pencemaran, wabak dan ancaman keselamatan boleh merentas sempadan. Negara besar boleh menyumbang sumber manakala negara kecil menyediakan kepakaran dan pengalaman setempat. Pertukaran maklumat mempercepat tindakan. Kerjasama ini memberi manfaat kepada keselamatan dan kesejahteraan dunia."
+      ]
+    },
+    {
+      "main": "Malaysia menyumbang kepada keamanan dan pembangunan dunia.",
+      "pillars": [
+        {
+          "title": "Misi pengaman PBB",
+          "detail": "sokong keamanan dunia"
+        },
+        {
+          "title": "Isu kemanusiaan",
+          "detail": "bantuan mangsa konflik"
+        },
+        {
+          "title": "Kesihatan dan alam sekitar",
+          "detail": "usaha bersama global"
+        },
+        {
+          "title": "Kerjasama ekonomi dan pendidikan",
+          "detail": "berkongsi kepakaran"
+        }
+      ],
+      "sequence": [
+        "Cabaran global",
+        "Penyertaan Malaysia",
+        "Kerjasama",
+        "Impak"
+      ],
+      "trap": "Bezakan dasar luar sebagai kerangka dengan sumbangan nyata Malaysia di persada dunia.",
+      "summary": "Malaysia boleh menyumbang melalui diplomasi, keamanan, kemanusiaan dan kepakaran.",
+      "answers": [
+        "Malaysia menyumbang kepada keamanan antarabangsa melalui penyertaan anggota keselamatan dalam misi pengaman PBB dan usaha diplomatik untuk penyelesaian konflik.",
+        "Kerjasama antarabangsa membolehkan negara berkongsi teknologi dan kepakaran. Ia juga memudahkan bantuan kemanusiaan apabila berlaku bencana besar.",
+        "Pelajar boleh menyertai projek kemanusiaan, penyelidikan alam sekitar atau pertukaran ilmu bersama rakan antarabangsa. Pengalaman ini membina kepekaan terhadap cabaran dunia dan meningkatkan kemahiran kerjasama.",
+        "Malaysia menyertai misi pengaman di bawah PBB dan menyokong usaha penyelesaian konflik secara diplomatik. Malaysia juga terlibat dalam kegiatan kemanusiaan serta forum antarabangsa yang membincangkan isu keamanan.",
+        "Penglibatan antarabangsa meningkatkan kerjasama ekonomi dan membuka akses kepada pasaran serta kepakaran. Hubungan pendidikan membolehkan pertukaran ilmu dan penyelidikan. Penyertaan Malaysia dalam misi pengaman memperkukuh imej negara yang menyokong keamanan. Rangkaian ini memberi manfaat kepada keselamatan serta pembangunan negara.",
+        "Pelajar Malaysia boleh menganjurkan projek pemantauan sisa plastik bersama sekolah dari negara lain. Mereka merekodkan jumlah sisa, berkongsi kaedah pengurangan dan menerbitkan laporan digital. Projek ini meningkatkan kesedaran alam sekitar serta kemahiran komunikasi antarabangsa. Hasilnya boleh digunakan oleh komuniti setempat."
+      ]
+    }
+  ]
+}
